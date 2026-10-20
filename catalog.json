@@ -1,0 +1,4543 @@
+{
+  "updated": "2026-10-19",
+  "drops": [
+    {
+      "id": "avatarthelastairbenderalottolearn",
+      "title": "Avatar: The Last Airbender — A Lot to Learn",
+      "category": "Avatar",
+      "cards": [
+        "Serra Ascendant",
+        "Ponder",
+        "Cryptolith Rite",
+        "Kodama's Reach"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-avatar-the-last-airbender-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 15,
+          "catalogName": "Secret Lair Avatar A Lot To Lear Rainbow Foil",
+          "sku": "195166312545"
+        },
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 16,
+          "catalogName": "Secret Lair Avatar A Lot To Learn",
+          "sku": "195166312576"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Serra Ascendant",
+          "image": "assets/0c661f6af69b2e423a39.webp"
+        },
+        {
+          "name": "Ponder",
+          "image": "assets/61bf70c24763c0e71746.webp"
+        },
+        {
+          "name": "Cryptolith Rite",
+          "image": "assets/4ae0e867e914a0a20184.webp"
+        },
+        {
+          "name": "Kodama's Reach",
+          "image": "assets/7464099b7ed71c64a2b7.webp"
+        }
+      ]
+    },
+    {
+      "id": "avatarthelastairbendereverythingchanged",
+      "title": "Avatar: The Last Airbender — Everything Changed",
+      "category": "Avatar",
+      "cards": [
+        "Torment of Hailfire",
+        "Blood Moon",
+        "Lightning Bolt",
+        "Dramatic Entrance"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-avatar-the-last-airbender-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 50.0,
+          "qty": 15,
+          "catalogName": "Secret Lair Avatar Everything Changed",
+          "sku": "195166312637"
+        },
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 15,
+          "catalogName": "Secret Lair Avatar Everything Changed Rainbow Foil",
+          "sku": "195166312606"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Torment of Hailfire",
+          "image": "assets/2138d98ff15695c1e1ab.webp"
+        },
+        {
+          "name": "Blood Moon",
+          "image": "assets/e6eef9681930373557d6.webp"
+        },
+        {
+          "name": "Lightning Bolt",
+          "image": "assets/fa20b18acd075a9f9e01.webp"
+        },
+        {
+          "name": "Dramatic Entrance",
+          "image": "assets/1b88da65802b6ca31dad.webp"
+        }
+      ]
+    },
+    {
+      "id": "avatarthelastairbendermycabbages",
+      "title": "Avatar: The Last Airbender — My Cabbages!",
+      "category": "Avatar",
+      "cards": [
+        "Chain of Vapor",
+        "Meltdown",
+        "Nature's Claim",
+        "Anguished Unmaking",
+        "Putrefy"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-avatar-the-last-airbender-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 50.0,
+          "qty": 15,
+          "catalogName": "Secret Lair Avatar My Cabbages",
+          "sku": "195166312439"
+        },
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 65.0,
+          "qty": 13,
+          "catalogName": "Secret Lair Avatar My Cabbages Rainbow Foil",
+          "sku": "195166312415"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Chain of Vapor",
+          "image": "assets/3afdf5a223757fb9d78a.webp"
+        },
+        {
+          "name": "Meltdown",
+          "image": "assets/df2a79a1ea328b57a420.webp"
+        },
+        {
+          "name": "Nature's Claim",
+          "image": "assets/304ca9ebdf562d8e3e32.webp"
+        },
+        {
+          "name": "Anguished Unmaking",
+          "image": "assets/60afdfc0fee5571ec71e.webp"
+        },
+        {
+          "name": "Putrefy",
+          "image": "assets/f19f69aa0324dd41c60f.webp"
+        }
+      ]
+    },
+    {
+      "id": "avatarthelastairbenderonewiththeelements",
+      "title": "Avatar: The Last Airbender — One with the Elements",
+      "category": "Avatar",
+      "cards": [
+        "Silence",
+        "Preordain",
+        "Painful Truths",
+        "Past in Flames",
+        "Force of Vigor",
+        "Expressive Iteration"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-avatar-the-last-airbender-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 13,
+          "catalogName": "Scret Lair Avatar One With The Elements Rainbow Foil",
+          "sku": "195166312484"
+        },
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 16,
+          "catalogName": "Secret Lair Avatar One With The Elements",
+          "sku": "195166312514"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Silence",
+          "image": "assets/d8952c60e3f1bb304645.webp"
+        },
+        {
+          "name": "Preordain",
+          "image": "assets/0d84088cee1c61da67da.webp"
+        },
+        {
+          "name": "Painful Truths",
+          "image": "assets/89ff7b16f05b2d4fbbcb.webp"
+        },
+        {
+          "name": "Past in Flames",
+          "image": "assets/fe79d860c2de0212e39d.webp"
+        },
+        {
+          "name": "Force of Vigor",
+          "image": "assets/5e2ab6c1f1be5203b886.webp"
+        },
+        {
+          "name": "Expressive Iteration",
+          "image": "assets/d7d7c4f98a969ef46926.webp"
+        }
+      ]
+    },
+    {
+      "id": "avatarthelastairbendertheemberislandplayers",
+      "title": "Avatar: The Last Airbender — The Ember Island Players",
+      "category": "Avatar",
+      "cards": [
+        "Phantasmal Image",
+        "Braid of Fire",
+        "Cursed Mirror",
+        "Mask of Memory",
+        "Thespian's Stage"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-avatar-the-last-airbender-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 15,
+          "catalogName": "Secret Lair Avatar Ember Island Players",
+          "sku": "195166312699"
+        },
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 17,
+          "catalogName": "Secret Lair Avatar Ember Island Players Rainbow Foil",
+          "sku": "195166312668"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Phantasmal Image",
+          "image": "assets/58b2121bc27749a71e71.webp"
+        },
+        {
+          "name": "Braid of Fire",
+          "image": "assets/2f60ca53563835e52d9f.webp"
+        },
+        {
+          "name": "Cursed Mirror",
+          "image": "assets/85491799326b6f680780.webp"
+        },
+        {
+          "name": "Mask of Memory",
+          "image": "assets/6b3df6deeca50a870bd9.webp"
+        },
+        {
+          "name": "Thespian's Stage",
+          "image": "assets/61fd22544313a178a7d5.webp"
+        }
+      ]
+    },
+    {
+      "id": "backinmyday",
+      "title": "Back in My Day!",
+      "category": "Art & more",
+      "cards": [
+        "Battle Hymn",
+        "Breath of Fury",
+        "Veil of Summer",
+        "Birthing Pod"
+      ],
+      "source": "https://www.reddit.com/r/SecretLairMTG/comments/1ta6beh/chaos_vault_live_today_back_in_my_day_drop_cards/",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 4,
+          "catalogName": "Back In My Day",
+          "sku": "195166315003"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 5,
+          "catalogName": "Back In my Day Foil",
+          "sku": "195166314983"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Battle Hymn",
+          "image": "assets/5f00a3cdb86bfb561aaa.webp"
+        },
+        {
+          "name": "Breath of Fury",
+          "image": "assets/ba05244eb67daee291b6.webp"
+        },
+        {
+          "name": "Veil of Summer",
+          "image": "assets/d8bc7ed3e5e6a92f531d.webp"
+        },
+        {
+          "name": "Birthing Pod",
+          "image": "assets/fa446169ce5decc186b1.webp"
+        }
+      ]
+    },
+    {
+      "id": "braindeadnewearthmentality",
+      "title": "Brain Dead: New Earth Mentality",
+      "category": "Art & more",
+      "cards": [
+        "Mirror Entity",
+        "Jace’s Archivist",
+        "Stinkweed Imp",
+        "Mogg Assassin",
+        "Sakura-Tribe Elder",
+        "Irrigated Farmland",
+        "Fetid Pools",
+        "Canyon Slough",
+        "Sheltered Thicket",
+        "Scattered Groves"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1250033/secret-lair-x-brain-dead-new-earth-mentality",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/b26d2f0800972ca7f082.webp",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 60.0,
+          "qty": 2,
+          "catalogName": "Brain Dead: New Earth Mentality Foil",
+          "sku": "195166320601"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 2,
+          "catalogName": "Brain Dead: New Earth Mentality Non-Foil",
+          "sku": "195166320632"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Mirror Entity",
+          "image": "assets/61f14891c9ffa627e203.webp"
+        },
+        {
+          "name": "Jace’s Archivist",
+          "image": "assets/37d1b86a844f3e7760ac.webp"
+        },
+        {
+          "name": "Stinkweed Imp",
+          "image": "assets/677e3f24fd2fcb8fbb37.webp"
+        },
+        {
+          "name": "Mogg Assassin",
+          "image": "assets/10d91e15553c15f92f3b.webp"
+        },
+        {
+          "name": "Sakura-Tribe Elder",
+          "image": "assets/07ff2613acbecbaef834.webp"
+        },
+        {
+          "name": "Irrigated Farmland",
+          "image": "assets/4a789b6646c2ea98b859.webp"
+        },
+        {
+          "name": "Fetid Pools",
+          "image": "assets/dc653ebd52a32de2f328.webp"
+        },
+        {
+          "name": "Canyon Slough",
+          "image": "assets/689be17c979210501cf1.webp"
+        },
+        {
+          "name": "Sheltered Thicket",
+          "image": "assets/87177e2c6a96893c9907.webp"
+        },
+        {
+          "name": "Scattered Groves",
+          "image": "assets/4071817f75bf47193bdc.webp"
+        }
+      ]
+    },
+    {
+      "id": "catsofchaos",
+      "title": "Cats of Chaos",
+      "category": "Art & more",
+      "cards": [
+        "Fell the Mighty",
+        "Aggravated Assault",
+        "Chaos Warp",
+        "Utopia Sprawl",
+        "Aura Shards"
+      ],
+      "source": "https://secretlair.wizards.com/us/product/1252576/cats-of-chaos",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/d2006d6a68af55d62c85.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Cats Of Chaos",
+          "sku": "195166340647"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Fell the Mighty",
+          "image": "assets/2b289dc128a436abdd3f.webp"
+        },
+        {
+          "name": "Aggravated Assault",
+          "image": "assets/e10456370e7c825b62c7.webp"
+        },
+        {
+          "name": "Chaos Warp",
+          "image": "assets/f6fa0ff84ab6a581985a.webp"
+        },
+        {
+          "name": "Utopia Sprawl",
+          "image": "assets/e408df2d5b740393e5b0.webp"
+        },
+        {
+          "name": "Aura Shards",
+          "image": "assets/4edee5a9c876eae146ef.webp"
+        }
+      ]
+    },
+    {
+      "id": "cosmicchillbyrobineisenberg",
+      "title": "Cosmic Chill by Robin Eisenberg",
+      "category": "Art & more",
+      "cards": [
+        "Orvar, the All-Form",
+        "Sage of Hours",
+        "See Double",
+        "Slip Through Space",
+        "Sway of the Stars"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-perfectly-normal-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 5,
+          "catalogName": "Cosmic Chill Foil",
+          "sku": "195166331485"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 3,
+          "catalogName": "Cosmic Chill NF",
+          "sku": "195166331515"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Orvar, the All-Form",
+          "image": "assets/4bb6df9f94a0d06b7d13.webp"
+        },
+        {
+          "name": "Sage of Hours",
+          "image": "assets/dea7d63b25fa3c107cfa.webp"
+        },
+        {
+          "name": "See Double",
+          "image": "assets/9eb4108b355b8a79aa24.webp"
+        },
+        {
+          "name": "Slip Through Space",
+          "image": "assets/ef0a1dacd084de45dbdf.webp"
+        },
+        {
+          "name": "Sway of the Stars",
+          "image": "assets/6af8ca710c95aade1aba.webp"
+        }
+      ]
+    },
+    {
+      "id": "deceptivedivination",
+      "title": "Deceptive Divination",
+      "category": "Art & more",
+      "cards": [
+        "Wall of Omens",
+        "Circular Logic",
+        "Scheming Symmetry",
+        "Price of Progress",
+        "Eternal Witness"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/924642/deceptive-divination-foil-edition",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/65b96fc2d2927ed83dbe.webp",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Secret Lair: Deceptive Divination (Rainbow Foil)",
+          "sku": "195166262987"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Wall of Omens",
+          "image": "assets/08e112b92fab38c89a34.webp"
+        },
+        {
+          "name": "Circular Logic",
+          "image": "assets/d55574b2ce24bdcff5d8.webp"
+        },
+        {
+          "name": "Scheming Symmetry",
+          "image": "assets/769a4bbbc96cc3493836.webp"
+        },
+        {
+          "name": "Price of Progress",
+          "image": "assets/4d49c41ad9b6760e59fc.webp"
+        },
+        {
+          "name": "Eternal Witness",
+          "image": "assets/9f258be3fd075a9a0c68.webp"
+        }
+      ]
+    },
+    {
+      "id": "diabolicaldioramas",
+      "title": "Diabolical Dioramas",
+      "category": "Art & more",
+      "cards": [
+        "Gravebreaker Lamia",
+        "Aura Shards",
+        "Fiend Artisan",
+        "Karador, Ghost Chieftain"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/928731/diabolical-dioramas",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/2b81352f9883bb37f060.webp",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 50.0,
+          "qty": 1,
+          "catalogName": "Magic the Gathering: Secret Lair: Diabolical Dioramas: Foil",
+          "sku": "195166266565"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Gravebreaker Lamia",
+          "image": "assets/93df8387885ff99bd4e6.webp"
+        },
+        {
+          "name": "Aura Shards",
+          "image": "assets/45b0123e46967cce99cf.webp"
+        },
+        {
+          "name": "Fiend Artisan",
+          "image": "assets/f0c7a658cce7e46b2691.webp"
+        },
+        {
+          "name": "Karador, Ghost Chieftain",
+          "image": "assets/5037f67f9a86ef64c972.webp"
+        }
+      ]
+    },
+    {
+      "id": "drawyourhand",
+      "title": "Draw Your Hand",
+      "category": "Art & more",
+      "cards": [
+        "Eldrazi Conscription",
+        "Deafening Silence",
+        "Counterbalance",
+        "Bruna, Light of Alabaster"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/811031/draw-your-hand",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/78a3dc22c6c8905127ea.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 1,
+          "catalogName": "Secret Lair: Draw Your Hand",
+          "sku": "195166237510"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Eldrazi Conscription",
+          "image": "assets/3a08ac174833af8d62f7.webp"
+        },
+        {
+          "name": "Deafening Silence",
+          "image": "assets/077483c0ffce83a631a4.webp"
+        },
+        {
+          "name": "Counterbalance",
+          "image": "assets/4d49cacf18ae9e0818c3.webp"
+        },
+        {
+          "name": "Bruna, Light of Alabaster",
+          "image": "assets/fac808cf2ac6743cfdc6.webp"
+        }
+      ]
+    },
+    {
+      "id": "dreamingdarkly",
+      "title": "Dreaming Darkly",
+      "category": "Art & more",
+      "cards": [
+        "Glen Elendra Archmage",
+        "Guardian Project",
+        "Roon of the Hidden Realm",
+        "Soulherder"
+      ],
+      "source": "https://magic.wizards.com/en/news/feature/secret-lair-secret-scare-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/034799f85bd9deeaa5a7.webp",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 10,
+          "catalogName": "Secret Lair Dreamingly Darkly Rainbow Foil",
+          "sku": "195166311968"
+        },
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 5,
+          "catalogName": "Sectret Lair Dreaming Darkly",
+          "sku": "195166311982"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Glen Elendra Archmage",
+          "image": "assets/b425ed1dacfab2660342.webp"
+        },
+        {
+          "name": "Guardian Project",
+          "image": "assets/6dfd17df1261605e05d4.webp"
+        },
+        {
+          "name": "Roon of the Hidden Realm",
+          "image": "assets/78279c4e5590fb999eba.webp"
+        },
+        {
+          "name": "Soulherder",
+          "image": "assets/8eaf5e49241b2f1ba99a.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonsanexhibitionofadventure",
+      "title": "Dungeons & Dragons — An Exhibition of Adventure",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Fell the Mighty",
+        "Faithless Looting",
+        "Goldspan Dragon",
+        "Reality Shift",
+        "Monster Manual",
+        "Ponder",
+        "Acererak the Archlich"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-x-dungeons-and-dragons-50th-anniversary-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 80.0,
+          "qty": 1,
+          "catalogName": "Secret Lair X D&D: An Exhibition of Adventure Rainbow Foil",
+          "sku": "195166283265"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Fell the Mighty",
+          "image": "assets/bc037e0b0cc75aea8f2d.webp"
+        },
+        {
+          "name": "Faithless Looting",
+          "image": "assets/6ddd0b07874a9b0b35a6.webp"
+        },
+        {
+          "name": "Goldspan Dragon",
+          "image": "assets/3349c1dea18b08453b93.webp"
+        },
+        {
+          "name": "Reality Shift",
+          "image": "assets/9d189abcafff1e4d81ba.webp"
+        },
+        {
+          "name": "Monster Manual",
+          "image": "assets/2c72a28cad7f2d9719bc.webp"
+        },
+        {
+          "name": "Ponder",
+          "image": "assets/7eac4becfae523b3e861.webp"
+        },
+        {
+          "name": "Acererak the Archlich",
+          "image": "assets/5aaa7123ec95df312249.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonsastarionsthirst",
+      "title": "Dungeons & Dragons — Astarion's Thirst",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Astarion, the Decadent",
+        "Exquisite Blood",
+        "Sanguine Bond",
+        "Anguished Unmaking",
+        "Mortify"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-x-dungeons-and-dragons-50th-anniversary-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 175.0,
+          "qty": 1,
+          "catalogName": "Secret Lair X D&D: Astarion's Thirst Rainbow Foil",
+          "sku": "195166283449"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Astarion, the Decadent",
+          "image": "assets/6a0c534384a54cabc815.webp"
+        },
+        {
+          "name": "Exquisite Blood",
+          "image": "assets/f5908968f0bdbe192f44.webp"
+        },
+        {
+          "name": "Sanguine Bond",
+          "image": "assets/c127448c377e79bc80da.webp"
+        },
+        {
+          "name": "Anguished Unmaking",
+          "image": "assets/934527e0945bfba9a11c.webp"
+        },
+        {
+          "name": "Mortify",
+          "image": "assets/9dc099ae32757878cab5.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonsdeathisintheeyesofthebeholderi",
+      "title": "Dungeons & Dragons — Death Is in the Eyes of the Beholder I",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Xanathar, Guild Kingpin",
+        "Bribery",
+        "Stifle",
+        "Delay",
+        "Blood Money",
+        "Drown in the Loch"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-x-dungeons-and-dragons-50th-anniversary-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Secret Lair X D&D: Eyes Of The Beholder 1 Rainbow Foil",
+          "sku": "195166283326"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Xanathar, Guild Kingpin",
+          "image": "assets/3d3acfca759f2b76e3fa.webp"
+        },
+        {
+          "name": "Bribery",
+          "image": "assets/6e34282f7a57bea5c3ab.webp"
+        },
+        {
+          "name": "Stifle",
+          "image": "assets/dd1c21bc6e526ac9e22e.webp"
+        },
+        {
+          "name": "Delay",
+          "image": "assets/19a94045c80f2a4979f5.webp"
+        },
+        {
+          "name": "Blood Money",
+          "image": "assets/58299b7e343930d1002d.webp"
+        },
+        {
+          "name": "Drown in the Loch",
+          "image": "assets/059deba420befd990a1d.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonsdeathisintheeyesofthebeholderii",
+      "title": "Dungeons & Dragons — Death Is in the Eyes of the Beholder II",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Karazikar, the Eye Tyrant",
+        "Snuff Out",
+        "Defile",
+        "Oubliette",
+        "Fling",
+        "Fire Covenant"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-x-dungeons-and-dragons-50th-anniversary-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Secret Lair X D&D: Eyes Of The Beholder 2 Rainbow Foil",
+          "sku": "195166283388"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Karazikar, the Eye Tyrant",
+          "image": "assets/bf4332d266b04cd8fae5.webp"
+        },
+        {
+          "name": "Snuff Out",
+          "image": "assets/1c580941ee1c68ae6553.webp"
+        },
+        {
+          "name": "Defile",
+          "image": "assets/9af29c03161fc7839f7b.webp"
+        },
+        {
+          "name": "Oubliette",
+          "image": "assets/66fe84b670a62a7c7a4e.webp"
+        },
+        {
+          "name": "Fling",
+          "image": "assets/45b8d1d8da9f7d1c6888.webp"
+        },
+        {
+          "name": "Fire Covenant",
+          "image": "assets/ec9c1fb2a84964687a5c.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonskarlachsrage",
+      "title": "Dungeons & Dragons — Karlach's Rage",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Karlach, Fury of Avernus",
+        "City on Fire",
+        "Stranglehold",
+        "Thrill of Possibility",
+        "Dolmen Gate"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-x-dungeons-and-dragons-50th-anniversary-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 170.0,
+          "qty": 1,
+          "catalogName": "Secret Lair X D&D: Karlach's Rage Rainbow Foil",
+          "sku": "195166283500"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Karlach, Fury of Avernus",
+          "image": "assets/c316c048d5b87e79b2a3.webp"
+        },
+        {
+          "name": "City on Fire",
+          "image": "assets/344f9822c5d98eea3beb.webp"
+        },
+        {
+          "name": "Stranglehold",
+          "image": "assets/b397d7a0f3d8cb393556.webp"
+        },
+        {
+          "name": "Thrill of Possibility",
+          "image": "assets/437259e1054a31fc5677.webp"
+        },
+        {
+          "name": "Dolmen Gate",
+          "image": "assets/93b0d79e589fb998d831.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonsblacklightsdarkdungeons",
+      "title": "Dungeons & Dragons: Black Lights & Dark Dungeons",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Seasoned Dungeoneer",
+        "Displacer Kitten",
+        "Tortured Existence",
+        "Sefris of the Hidden Ways"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-roll-for-initiative-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 65.0,
+          "qty": 2,
+          "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Black Lights & Dark Dungeons Non-Foil Edition",
+          "sku": "195166323237"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Seasoned Dungeoneer",
+          "image": "assets/980e3a9fc4b8b947c88a.webp"
+        },
+        {
+          "name": "Displacer Kitten",
+          "image": "assets/b399ab70691e62877846.webp"
+        },
+        {
+          "name": "Tortured Existence",
+          "image": "assets/233a7867689557164995.webp"
+        },
+        {
+          "name": "Sefris of the Hidden Ways",
+          "image": "assets/d62cfe79966aea22359e.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonsgalesambition",
+      "title": "Dungeons & Dragons: Gale’s Ambition",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Gale, Waterdeep Prodigy",
+        "Arcane Denial",
+        "Archmage’s Charm",
+        "Brainstorm",
+        "Personal Tutor"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-roll-for-initiative-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 5,
+          "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Gale's Ambition Foil Edition",
+          "sku": "195166320663"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 4,
+          "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Gale's Ambition Non-Foil Edition",
+          "sku": "195166320694"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Gale, Waterdeep Prodigy",
+          "image": "assets/916924755286e46bbd1a.webp"
+        },
+        {
+          "name": "Arcane Denial",
+          "image": "assets/431fffc7045ad9e88667.webp"
+        },
+        {
+          "name": "Archmage’s Charm",
+          "image": "assets/4301a6114267cac84f81.webp"
+        },
+        {
+          "name": "Brainstorm",
+          "image": "assets/b3670656adae25ef1961.webp"
+        },
+        {
+          "name": "Personal Tutor",
+          "image": "assets/ec02870c9d47c33aa669.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonslandsoftheforgottenrealms",
+      "title": "Dungeons & Dragons: Lands of the Forgotten Realms",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Plains",
+        "Plains",
+        "Island",
+        "Island",
+        "Swamp",
+        "Swamp",
+        "Mountain",
+        "Mountain",
+        "Forest",
+        "Forest"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-roll-for-initiative-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 4,
+          "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Lands of The Forgotten Realms Foil Edition",
+          "sku": "195166323268"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 6,
+          "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Lands of The Forgotten Realms Non-Foil Edition",
+          "sku": "195166323299"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Plains",
+          "image": "assets/40e4d37c12647851290b.webp"
+        },
+        {
+          "name": "Plains",
+          "image": "assets/40e4d37c12647851290b.webp"
+        },
+        {
+          "name": "Island",
+          "image": "assets/170a43f84639ea585c2d.webp"
+        },
+        {
+          "name": "Island",
+          "image": "assets/170a43f84639ea585c2d.webp"
+        },
+        {
+          "name": "Swamp",
+          "image": "assets/44830c93a3c0f255bf5e.webp"
+        },
+        {
+          "name": "Swamp",
+          "image": "assets/44830c93a3c0f255bf5e.webp"
+        },
+        {
+          "name": "Mountain",
+          "image": "assets/d2370a7b3eb93e5964cf.webp"
+        },
+        {
+          "name": "Mountain",
+          "image": "assets/d2370a7b3eb93e5964cf.webp"
+        },
+        {
+          "name": "Forest",
+          "image": "assets/2a106458258240d48052.webp"
+        },
+        {
+          "name": "Forest",
+          "image": "assets/2a106458258240d48052.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonsshadowheartsdevotion",
+      "title": "Dungeons & Dragons: Shadowheart’s Devotion",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Shadowheart, Dark Justiciar",
+        "Beseech the Queen",
+        "Black Market",
+        "Victimize",
+        "Ancient Bronze Dragon"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-roll-for-initiative-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Shadowheart's Devotion Foil Edition",
+          "sku": "195166320724"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Shadowheart, Dark Justiciar",
+          "image": "assets/4c1436fc98fa2fa207da.webp"
+        },
+        {
+          "name": "Beseech the Queen",
+          "image": "assets/9df56e8e405e58d63a1b.webp"
+        },
+        {
+          "name": "Black Market",
+          "image": "assets/8b79d124717681e0ba58.webp"
+        },
+        {
+          "name": "Victimize",
+          "image": "assets/5365e25c70c00f839416.webp"
+        },
+        {
+          "name": "Ancient Bronze Dragon",
+          "image": "assets/cb76beff4f459a149cf9.webp"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsdragonsshadowsoverbaldursgate",
+      "title": "Dungeons & Dragons: Shadows over Baldur’s Gate",
+      "category": "Dungeons & Dragons",
+      "cards": [
+        "Grim Hireling",
+        "Wild-Magic Sorcerer",
+        "Xorn",
+        "Prosper, Tome-Bound"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-roll-for-initiative-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 3,
+          "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Shadows over Baldur's Gate Foil Edition",
+          "sku": "195166323381"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 4,
+          "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Shadows over Baldur's Gate Non-Foil Edition",
+          "sku": "195166323411"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Grim Hireling",
+          "image": "assets/9e6f8dbdad290902283a.webp"
+        },
+        {
+          "name": "Wild-Magic Sorcerer",
+          "image": "assets/0e91ecbb8d3ac863c723.webp"
+        },
+        {
+          "name": "Xorn",
+          "image": "assets/3810563138b5a7ceb924.webp"
+        },
+        {
+          "name": "Prosper, Tome-Bound",
+          "image": "assets/fcf830a1016f7cb94090.webp"
+        }
+      ]
+    },
+    {
+      "id": "dwarffortresscreatenewworld",
+      "title": "Dwarf Fortress: Create New World",
+      "category": "Video games",
+      "cards": [
+        "Secret Rendezvous",
+        "Rune-Scarred Demon",
+        "Terror of the Peaks",
+        "Communal Brewing",
+        "Rogue’s Passage"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-back-to-school-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 5,
+          "catalogName": "Create New World",
+          "sku": "195166324791"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 50.0,
+          "qty": 4,
+          "catalogName": "Create New World Foil",
+          "sku": "195166324739"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Secret Rendezvous",
+          "image": "assets/bf0af5c1f8ce77eca210.webp"
+        },
+        {
+          "name": "Rune-Scarred Demon",
+          "image": "assets/e84176a015d76107e6c6.webp"
+        },
+        {
+          "name": "Terror of the Peaks",
+          "image": "assets/f700e8a9c9abceaa78ea.webp"
+        },
+        {
+          "name": "Communal Brewing",
+          "image": "assets/7c6d28e215dba2bf351a.webp"
+        },
+        {
+          "name": "Rogue’s Passage",
+          "image": "assets/06d3212ab9fd00cbdc43.webp"
+        }
+      ]
+    },
+    {
+      "id": "falloutbeyondvault33",
+      "title": "Fallout: Beyond Vault 33",
+      "category": "Video games",
+      "cards": [
+        "Lucy MacLean, Positively Armed",
+        "The Ghoul, Gunslinger",
+        "Maximus, Knight Apparent",
+        "Pre-War Formalwear",
+        "Spirit Mantle",
+        "T-45 Power Armor"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-rad-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Beyond Vault 33 Foil",
+          "sku": "195166318912"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 19,
+          "catalogName": "Beyond Vault 33 Non-Foil",
+          "sku": "195166318943"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Lucy MacLean, Positively Armed",
+          "image": "assets/96ce3f8a0086cbd45817.webp"
+        },
+        {
+          "name": "The Ghoul, Gunslinger",
+          "image": "assets/f3f1f4c1db77b543d067.webp"
+        },
+        {
+          "name": "Maximus, Knight Apparent",
+          "image": "assets/a22ed1dff9910157deb8.webp"
+        },
+        {
+          "name": "Pre-War Formalwear",
+          "image": "assets/c525b11db696bfbb74ba.webp"
+        },
+        {
+          "name": "Spirit Mantle",
+          "image": "assets/65cd8f4c279460fd6da5.webp"
+        },
+        {
+          "name": "T-45 Power Armor",
+          "image": "assets/9481b2e2b2eb2c9c7e46.webp"
+        }
+      ]
+    },
+    {
+      "id": "featuringdeathburger",
+      "title": "Featuring: Deathburger",
+      "category": "Art & more",
+      "cards": [
+        "Ethersworn Canonist",
+        "Goblin Engineer",
+        "Dance of the Manse",
+        "Arcbound Ravager",
+        "Foundry Inspector"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1246431/featuring-deathburger",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/fceb5569be6ed5e4aab6.webp",
+      "variants": [
+        {
+          "label": "Galaxy foil",
+          "kind": "foil",
+          "price": 37.0,
+          "qty": 1,
+          "catalogName": "Secret Lair: Featuring: Deathburger Galaxy Foil",
+          "sku": "3770526"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Ethersworn Canonist",
+          "image": "assets/c92b7e1d7b8983c0bbaa.webp"
+        },
+        {
+          "name": "Goblin Engineer",
+          "image": "assets/db94a02feea0d1f934b6.webp"
+        },
+        {
+          "name": "Dance of the Manse",
+          "image": "assets/a6d568e2fd8f5830481c.webp"
+        },
+        {
+          "name": "Arcbound Ravager",
+          "image": "assets/436e76dea3654ed2f194.webp"
+        },
+        {
+          "name": "Foundry Inspector",
+          "image": "assets/99759f918c36b182da46.webp"
+        }
+      ]
+    },
+    {
+      "id": "featuringgeneluenyang",
+      "title": "Featuring: Gene Luen Yang",
+      "category": "Art & more",
+      "cards": [
+        "Kibo, Uktabi Prince",
+        "Ilharg, the Raze-Boar",
+        "Kazuul, Tyrant of the Cliffs",
+        "Dosan, the Falling Leaf",
+        "Quest for Renewal"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-perfectly-normal-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 2,
+          "catalogName": "Gene Luen Yang Foil",
+          "sku": "195166314822"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 3,
+          "catalogName": "Gene Luen Yang NF",
+          "sku": "195166314846"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Kibo, Uktabi Prince",
+          "image": "assets/9694efb46b5f3370e357.webp"
+        },
+        {
+          "name": "Ilharg, the Raze-Boar",
+          "image": "assets/c2263335d2d8656b4b2b.webp"
+        },
+        {
+          "name": "Kazuul, Tyrant of the Cliffs",
+          "image": "assets/ed76b1c59f7443fbe411.webp"
+        },
+        {
+          "name": "Dosan, the Falling Leaf",
+          "image": "assets/45ce1c72159e8197fbe9.webp"
+        },
+        {
+          "name": "Quest for Renewal",
+          "image": "assets/1e9d9948e1fad643beb1.webp"
+        }
+      ]
+    },
+    {
+      "id": "featuringkevineastmancolors",
+      "title": "Featuring: Kevin Eastman (Colors)",
+      "category": "TMNT",
+      "cards": [
+        "Loxodon Gatekeeper",
+        "Sakashima's Student",
+        "Throat Slitter",
+        "Guttersnipe"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-totally-tubulair-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 3,
+          "catalogName": "Secret Lair TMNT Featuring Kevin Eastman (Colors)",
+          "sku": "195166329079"
+        },
+        {
+          "label": "Traditional foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 2,
+          "catalogName": "Secret Lair TMNT Featuring Kevin Eastman Traditonal Foil (Colors)",
+          "sku": "195166329048"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Loxodon Gatekeeper",
+          "image": "assets/87c28b9421b3da3b085f.webp"
+        },
+        {
+          "name": "Sakashima's Student",
+          "image": "assets/c3ef5769e067e5b83642.webp"
+        },
+        {
+          "name": "Throat Slitter",
+          "image": "assets/4570c4453d7bbe913fa0.webp"
+        },
+        {
+          "name": "Guttersnipe",
+          "image": "assets/5c6235fd9b6467ce895f.webp"
+        }
+      ]
+    },
+    {
+      "id": "featuringkevineastmaninks",
+      "title": "Featuring: Kevin Eastman (Inks)",
+      "category": "TMNT",
+      "cards": [
+        "Loxodon Gatekeeper",
+        "Sakashima's Student",
+        "Throat Slitter",
+        "Guttersnipe"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-totally-tubulair-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 2,
+          "catalogName": "Secret Lair TMNT Featuring Kevin Eastman (Inks)",
+          "sku": "195166323138"
+        },
+        {
+          "label": "Traditional foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 2,
+          "catalogName": "Secret Lair TMNT Featuring Kevin Eastman Traditonal Foil (Inks)",
+          "sku": "195166323107"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Loxodon Gatekeeper",
+          "image": "assets/d323821418a0a1a8f347.webp"
+        },
+        {
+          "name": "Sakashima's Student",
+          "image": "assets/bc91c5389c93c0260790.webp"
+        },
+        {
+          "name": "Throat Slitter",
+          "image": "assets/3292597d97f72b4e0cc7.webp"
+        },
+        {
+          "name": "Guttersnipe",
+          "image": "assets/b083513f18ca66bc03fb.webp"
+        }
+      ]
+    },
+    {
+      "id": "featuringstansakai",
+      "title": "Featuring: Stan Sakai",
+      "category": "TMNT",
+      "cards": [
+        "Baylen, the Haymaker",
+        "Felidar Retreat",
+        "Master of Ceremonies",
+        "Second Harvest",
+        "Sunforger"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-totally-tubulair-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Secret Lair TMNT Featuring Stan Sakai",
+          "sku": "195166322896"
+        },
+        {
+          "label": "Traditional foil",
+          "kind": "foil",
+          "price": 65.0,
+          "qty": 1,
+          "catalogName": "Secret Lair TMNT Featuring Stan Sakai Traditonal Foil",
+          "sku": "195166322865"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Baylen, the Haymaker",
+          "image": "assets/ab712ea0dde7e7230788.webp"
+        },
+        {
+          "name": "Felidar Retreat",
+          "image": "assets/7844705843b20cecf23e.webp"
+        },
+        {
+          "name": "Master of Ceremonies",
+          "image": "assets/e836385ba739a36487e2.webp"
+        },
+        {
+          "name": "Second Harvest",
+          "image": "assets/0aa94072acd0357201f8.webp"
+        },
+        {
+          "name": "Sunforger",
+          "image": "assets/e44126151799bf81bb51.webp"
+        }
+      ]
+    },
+    {
+      "id": "felixthecatmagicbagoftricks",
+      "title": "Felix the Cat: Magic Bag of Tricks",
+      "category": "Art & more",
+      "cards": [
+        "Future Sight",
+        "Time Stretch",
+        "Barrowgoyf",
+        "Throes of Chaos",
+        "Mind's Eye"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1252568/secret-lair-x-felix-the-cat-magic-bag-of-tricks",
+      "aliases": {
+        "Barrowgoyf": "Feral Felix"
+      },
+      "notes": "",
+      "image": "assets/cc7907c637c97ad73ea4.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 9,
+          "catalogName": "The Magic Bag Of Tricks",
+          "sku": "195166340388"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 11,
+          "catalogName": "The Magic Bag Of Tricks Foil",
+          "sku": "195166340333"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Future Sight",
+          "image": "assets/642772054d42b1b6eb83.webp"
+        },
+        {
+          "name": "Time Stretch",
+          "image": "assets/438a54b6f07f5d2323f3.webp"
+        },
+        {
+          "name": "Barrowgoyf",
+          "image": "assets/2ca4705765297600a7df.webp",
+          "displayName": "Feral Felix"
+        },
+        {
+          "name": "Throes of Chaos",
+          "image": "assets/21d2a048df471417a77c.webp"
+        },
+        {
+          "name": "Mind's Eye",
+          "image": "assets/f250fb160a87002a7552.webp"
+        }
+      ]
+    },
+    {
+      "id": "furbydooaynoolah",
+      "title": "Furby — Doo-ay Noo-lah",
+      "category": "Art & more",
+      "cards": [
+        "Distant Melody",
+        "Explore",
+        "Inspiring Call",
+        "Chromatic Lantern",
+        "Sol Ring"
+      ],
+      "source": "https://magic.wizards.com/en/news/feature/secret-lair-secret-scare-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Confetti foil",
+          "kind": "foil",
+          "price": 80.0,
+          "qty": 1,
+          "catalogName": "Secret Lair Furby Doo-ay Noo-lah Confetti Foil",
+          "sku": "195166314624"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Distant Melody",
+          "image": "assets/b379bc57caf6311605eb.webp"
+        },
+        {
+          "name": "Explore",
+          "image": "assets/6c51e6a0ed557921253a.webp"
+        },
+        {
+          "name": "Inspiring Call",
+          "image": "assets/b9e14c72da839b1d1245.webp"
+        },
+        {
+          "name": "Chromatic Lantern",
+          "image": "assets/e00d9f3a289a22dc5c61.webp"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/4dd2270d68035f339950.webp"
+        }
+      ]
+    },
+    {
+      "id": "furbythegathering",
+      "title": "Furby — The Gathering",
+      "category": "Art & more",
+      "cards": [
+        "Sphere of Safety",
+        "Miscast",
+        "Phyrexian Arena",
+        "Tormenting Voice",
+        "Tamiyo's Safekeeping"
+      ],
+      "source": "https://magic.wizards.com/en/news/feature/secret-lair-secret-scare-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 50.0,
+          "qty": 8,
+          "catalogName": "Secret Lair Furby The Gathering",
+          "sku": "195166311548"
+        },
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 4,
+          "catalogName": "Secret Lair Furby The Gathering Rainbow Foil",
+          "sku": "195166311524"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Sphere of Safety",
+          "image": "assets/7f06a9edff374375576c.webp"
+        },
+        {
+          "name": "Miscast",
+          "image": "assets/8266d713c9f1045fe3d3.webp"
+        },
+        {
+          "name": "Phyrexian Arena",
+          "image": "assets/efdac6dfda87edb278d4.webp"
+        },
+        {
+          "name": "Tormenting Voice",
+          "image": "assets/651097b43ec7a739341d.webp"
+        },
+        {
+          "name": "Tamiyo's Safekeeping",
+          "image": "assets/dcc79e479fe63a63a77f.webp"
+        }
+      ]
+    },
+    {
+      "id": "furbytheoddbodies",
+      "title": "Furby — The OddBodies",
+      "category": "Art & more",
+      "cards": [
+        "Hullbreaker Horror",
+        "Maddening Cacophony",
+        "Serum Visions",
+        "Umbris, Fear Manifest",
+        "Spellskite"
+      ],
+      "source": "https://magic.wizards.com/en/news/feature/secret-lair-secret-scare-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 90.0,
+          "qty": 1,
+          "catalogName": "Secret Lair Furby The Oddbodies Rainbow Foil",
+          "sku": "195166311562"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Hullbreaker Horror",
+          "image": "assets/3b45b61ca224c5ff53b3.webp"
+        },
+        {
+          "name": "Maddening Cacophony",
+          "image": "assets/50b25f54e57c92055d2c.webp"
+        },
+        {
+          "name": "Serum Visions",
+          "image": "assets/d30fdff314f8af4c1545.webp"
+        },
+        {
+          "name": "Umbris, Fear Manifest",
+          "image": "assets/72a15d301f33effe74a0.webp"
+        },
+        {
+          "name": "Spellskite",
+          "image": "assets/9f5192e4fe2dc3d0cb99.webp"
+        }
+      ]
+    },
+    {
+      "id": "garfieldasintended",
+      "title": "Garfield: As Intended",
+      "category": "Art & more",
+      "cards": [
+        "Swords to Plowshares",
+        "Counterspell",
+        "Dark Ritual",
+        "Earthquake",
+        "Fog"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-cats-are-the-best-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 5,
+          "catalogName": "Garfield As Intended",
+          "sku": "195166340180"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 6,
+          "catalogName": "Garfield As Intended Foil",
+          "sku": "195166340159"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Swords to Plowshares",
+          "image": "assets/2c219a67551de39d1ae0.webp"
+        },
+        {
+          "name": "Counterspell",
+          "image": "assets/8c929cf4dedd3191815b.webp"
+        },
+        {
+          "name": "Dark Ritual",
+          "image": "assets/47153b5c2a61c18b5a24.webp"
+        },
+        {
+          "name": "Earthquake",
+          "image": "assets/db6ff8a19c4257d5fe49.webp"
+        },
+        {
+          "name": "Fog",
+          "image": "assets/25f6f2c31d2a26e5b93b.webp"
+        }
+      ]
+    },
+    {
+      "id": "garfieldmotivationallychallenged",
+      "title": "Garfield: Motivationally Challenged",
+      "category": "Art & more",
+      "cards": [
+        "Rin and Seri, Inseparable",
+        "Orim’s Chant",
+        "Ponder",
+        "Beast Within",
+        "Sol Ring"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-cats-are-the-best-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 8,
+          "catalogName": "Garfield Motivationally Challenged",
+          "sku": "195166332536"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 6,
+          "catalogName": "Garfield Motivationally Challenged Foil",
+          "sku": "195166332505"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Rin and Seri, Inseparable",
+          "image": "assets/8db4ef15b1a4b773fcbd.webp"
+        },
+        {
+          "name": "Orim’s Chant",
+          "image": "assets/b959583185dfd00a3927.webp"
+        },
+        {
+          "name": "Ponder",
+          "image": "assets/d57799cf1b422a984725.webp"
+        },
+        {
+          "name": "Beast Within",
+          "image": "assets/d2f849e7fa3ee588e3cb.webp"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/55aa8387f13f25fcc9db.webp"
+        }
+      ]
+    },
+    {
+      "id": "garfieldouronlythoughtistoentertainyou",
+      "title": "Garfield: Our Only Thought Is to Entertain You",
+      "category": "Art & more",
+      "cards": [
+        "It That Betrays",
+        "Maddening Cacophony",
+        "Maddening Hex",
+        "Hunter’s Insight",
+        "Molten Collapse"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-cats-are-the-best-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 7,
+          "catalogName": "Garfield Entertain You",
+          "sku": "195166340302"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 9,
+          "catalogName": "Garfield Entertain You Foil",
+          "sku": "195166340272"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "It That Betrays",
+          "image": "assets/cdccc623a3d4d4f1a670.webp"
+        },
+        {
+          "name": "Maddening Cacophony",
+          "image": "assets/3c5ab32bad27ec11e7b9.webp"
+        },
+        {
+          "name": "Maddening Hex",
+          "image": "assets/764727eeb09749ac6cc5.webp"
+        },
+        {
+          "name": "Hunter’s Insight",
+          "image": "assets/4a9213db14229d3ccc79.webp"
+        },
+        {
+          "name": "Molten Collapse",
+          "image": "assets/128ae7670b40c6dc9ab9.webp"
+        }
+      ]
+    },
+    {
+      "id": "godofwargreek",
+      "title": "God of War — Greek",
+      "category": "Video games",
+      "cards": [
+        "Kratos, God of War",
+        "World at War",
+        "Rite of Flame",
+        "Sulfuric Vortex",
+        "Pyrohemia"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Secret Lair God Of War Greek",
+          "sku": "195166308456"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Kratos, God of War",
+          "image": "assets/b17e3981ca735f1a3e2c.webp"
+        },
+        {
+          "name": "World at War",
+          "image": "assets/75a95738a6f6dcd52872.webp"
+        },
+        {
+          "name": "Rite of Flame",
+          "image": "assets/a1ff78fa27f886d43f93.webp"
+        },
+        {
+          "name": "Sulfuric Vortex",
+          "image": "assets/b3d7d6ca3eaca5b6aea3.webp"
+        },
+        {
+          "name": "Pyrohemia",
+          "image": "assets/df5c7a1fbc86be3e1464.webp"
+        }
+      ]
+    },
+    {
+      "id": "godofwarnorse",
+      "title": "God of War — Norse",
+      "category": "Video games",
+      "cards": [
+        "Atreus, Impulsive Son",
+        "Kratos, Stoic Father",
+        "Teferi's Ageless Insight",
+        "Iroas, God of Victory"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 35.0,
+          "qty": 1,
+          "catalogName": "Secret Lair God Of War Norse",
+          "sku": "195166308494"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Atreus, Impulsive Son",
+          "image": "assets/43ce9296bdcaacf8019f.webp"
+        },
+        {
+          "name": "Kratos, Stoic Father",
+          "image": "assets/6b8f07fd275534ec2c53.webp"
+        },
+        {
+          "name": "Teferi's Ageless Insight",
+          "image": "assets/f3302844c857c791f08e.webp",
+          "backImage": "assets/8248ccf594f1ba3c0517.webp"
+        },
+        {
+          "name": "Iroas, God of Victory",
+          "image": "assets/7fbdf7ad7a65973abb09.webp"
+        }
+      ]
+    },
+    {
+      "id": "horizonintotheforbiddenwest",
+      "title": "Horizon — Into the Forbidden West",
+      "category": "Video games",
+      "cards": [
+        "Aloy, Savior of Meridian",
+        "Farseek",
+        "Blightsteel Colossus",
+        "Tarrian's Soulcleaver",
+        "Meteor Golem"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 65.0,
+          "qty": 3,
+          "catalogName": "Secret Lair X Horizon: Into the Forbidden West (Foil)",
+          "sku": "195166308555"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Aloy, Savior of Meridian",
+          "image": "assets/71f009829325a4405335.webp"
+        },
+        {
+          "name": "Farseek",
+          "image": "assets/5711f627b7acc6165897.webp"
+        },
+        {
+          "name": "Blightsteel Colossus",
+          "image": "assets/0325b6b1a7d5946ba25c.webp"
+        },
+        {
+          "name": "Tarrian's Soulcleaver",
+          "image": "assets/0d8dc3d026e0a64e14d1.webp"
+        },
+        {
+          "name": "Meteor Golem",
+          "image": "assets/28ddae38f1c2eb5ac517.webp"
+        }
+      ]
+    },
+    {
+      "id": "inked",
+      "title": "Inked",
+      "category": "Art & more",
+      "cards": [
+        "Mulldrifter",
+        "Crypt Ghast",
+        "Deathrite Shaman",
+        "Ice-Fang Coatl",
+        "Burnished Hart"
+      ],
+      "source": "https://www.reddit.com/r/PetesPacks/comments/1u64iog/inked_nonfoil_edition_secret_lair_sunday_347_mtg/",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 5,
+          "catalogName": "Inked",
+          "sku": "195166304458"
+        },
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 4,
+          "catalogName": "Inked Rainbow Foil",
+          "sku": "195166304427"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Mulldrifter",
+          "image": "assets/84dc071f92df8d6bb92c.webp"
+        },
+        {
+          "name": "Crypt Ghast",
+          "image": "assets/b711069fb5ba1977f790.webp"
+        },
+        {
+          "name": "Deathrite Shaman",
+          "image": "assets/4c928b02cabc5a2a33c9.webp"
+        },
+        {
+          "name": "Ice-Fang Coatl",
+          "image": "assets/2a4d76590dc18fd7a75b.webp"
+        },
+        {
+          "name": "Burnished Hart",
+          "image": "assets/376c8c138671ad75650f.webp"
+        }
+      ]
+    },
+    {
+      "id": "ironmaideneddieunchained",
+      "title": "Iron Maiden — Eddie Unchained",
+      "category": "Art & more",
+      "cards": [
+        "Bruvac the Grandiloquent",
+        "Windfall",
+        "Captain N'ghathrod",
+        "Nekusar, the Mindrazer",
+        "Iron Maiden",
+        "Mindcrank"
+      ],
+      "source": "https://magic.wizards.com/en/news/feature/secret-lair-secret-scare-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 1,
+          "catalogName": "Secret Lair Iorn Maiden Eddie Unchained",
+          "sku": "195166311944"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Bruvac the Grandiloquent",
+          "image": "assets/fdf2512c5e620fba8107.webp"
+        },
+        {
+          "name": "Windfall",
+          "image": "assets/e25eb121e6ca66212e18.webp"
+        },
+        {
+          "name": "Captain N'ghathrod",
+          "image": "assets/ba0a97494c70b7a73294.webp"
+        },
+        {
+          "name": "Nekusar, the Mindrazer",
+          "image": "assets/8f160638628c30529335.webp"
+        },
+        {
+          "name": "Iron Maiden",
+          "image": "assets/381767e65edcce78bc08.webp"
+        },
+        {
+          "name": "Mindcrank",
+          "image": "assets/59bc3a8f6dff2a593481.webp"
+        }
+      ]
+    },
+    {
+      "id": "ironmaidenalbumart",
+      "title": "Iron Maiden: Album Art",
+      "category": "Art & more",
+      "cards": [
+        "Lethal Scheme",
+        "Grave Titan",
+        "Animate Dead",
+        "Temporal Trespass",
+        "Unearth",
+        "Lignify"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1247702/secret-lair-x-iron-maiden-album-art-foil-edition",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/800f2abc9f91bff70777.webp",
+      "variants": [
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 85.0,
+          "qty": 1,
+          "catalogName": "Magic the Gathering Secret Lair x Iron Maiden: Album Art​​ (Non-Foil)",
+          "sku": "195166312927"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Lethal Scheme",
+          "image": "assets/8b4fba247624b6da39a3.webp"
+        },
+        {
+          "name": "Grave Titan",
+          "image": "assets/9a7a977e81e722d1be61.webp"
+        },
+        {
+          "name": "Animate Dead",
+          "image": "assets/2d068ab2abe1df26dfbd.webp"
+        },
+        {
+          "name": "Temporal Trespass",
+          "image": "assets/d07d6f0a83be66f3daf4.webp"
+        },
+        {
+          "name": "Unearth",
+          "image": "assets/afa69417f13a3ab3d09b.webp"
+        },
+        {
+          "name": "Lignify",
+          "image": "assets/8dbf3cf287007f78a8e0.webp"
+        }
+      ]
+    },
+    {
+      "id": "jawsterrorofamityisland",
+      "title": "Jaws: Terror of Amity Island",
+      "category": "Art & more",
+      "cards": [
+        "Jaws, Relentless Predator",
+        "Descent into Avernus",
+        "Reckless Endeavor",
+        "Sneak Attack",
+        "Abrade",
+        "Blood Token"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1247711/secret-lair-x-jaws-terror-of-amity-island",
+      "aliases": {
+        "Descent into Avernus": "Panic on Amity Island",
+        "Abrade": "You’re Gonna Need a Bigger Boat"
+      },
+      "notes": "",
+      "image": "assets/86545d21a6441dfa76b5.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Secret LairJawsd Terror Of Amity Island",
+          "sku": "195166311142"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Jaws, Relentless Predator",
+          "image": "assets/84e3ef873711cda9636d.webp"
+        },
+        {
+          "name": "Descent into Avernus",
+          "image": "assets/8d8d15e05c04a53ae143.webp",
+          "displayName": "Panic on Amity Island"
+        },
+        {
+          "name": "Reckless Endeavor",
+          "image": "assets/4bb118b10e9134034aa8.webp"
+        },
+        {
+          "name": "Sneak Attack",
+          "image": "assets/5f1f85159a4a080fff55.webp"
+        },
+        {
+          "name": "Abrade",
+          "image": "assets/a80449c2fe0139a3e6df.webp",
+          "displayName": "You’re Gonna Need a Bigger Boat"
+        },
+        {
+          "name": "Blood Token",
+          "image": "assets/6e44392ac802881f6f40.webp"
+        }
+      ]
+    },
+    {
+      "id": "kexpyouarenotalone",
+      "title": "KEXP: You Are Not Alone",
+      "category": "Art & more",
+      "cards": [
+        "Cultural Exchange",
+        "Folio of Fancies",
+        "Concordant Crossroads",
+        "Rites of Flourishing",
+        "Font of Mythos"
+      ],
+      "source": "https://secretlair.wizards.com/us/product/1161302/secret-lair-x-kexp-you-are-not-alone",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/c9a0a192831224e3876d.webp",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "KEXP: You Are Not Alone Rainbow Foil",
+          "sku": "195166301754"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Cultural Exchange",
+          "image": "assets/65776b9278816c16d7d2.webp"
+        },
+        {
+          "name": "Folio of Fancies",
+          "image": "assets/dd0aa7137411b68506ee.webp"
+        },
+        {
+          "name": "Concordant Crossroads",
+          "image": "assets/2b360d07a8ebb95498d0.webp"
+        },
+        {
+          "name": "Rites of Flourishing",
+          "image": "assets/93237a58afa6cde26b31.webp"
+        },
+        {
+          "name": "Font of Mythos",
+          "image": "assets/d391600f7522458644e0.webp"
+        }
+      ]
+    },
+    {
+      "id": "mahgakuinseishunhakusho",
+      "title": "Mahō Gakuin Seishun Hakusho",
+      "category": "Art & more",
+      "cards": [
+        "Rule of Law",
+        "Thought Scour",
+        "Time Stretch",
+        "Stinging Study",
+        "Notion Thief"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-back-to-school-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 65.0,
+          "qty": 7,
+          "catalogName": "Maho Gakuin",
+          "sku": "195166325569"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 60.0,
+          "qty": 8,
+          "catalogName": "Maho Gakuin Foil",
+          "sku": "195166325538"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Rule of Law",
+          "image": "assets/ec8285a33e91d33f31ae.webp"
+        },
+        {
+          "name": "Thought Scour",
+          "image": "assets/b444956d21aad44af26c.webp"
+        },
+        {
+          "name": "Time Stretch",
+          "image": "assets/eb136c92cb6236b68ccb.webp"
+        },
+        {
+          "name": "Stinging Study",
+          "image": "assets/6c674d15844cff3ada15.webp"
+        },
+        {
+          "name": "Notion Thief",
+          "image": "assets/c628938a887b6cd40698.webp"
+        }
+      ]
+    },
+    {
+      "id": "marveldanhipp",
+      "title": "Marvel: Dan Hipp",
+      "category": "Marvel",
+      "cards": [
+        "Mystical Dispute",
+        "An Offer You Can’t Refuse",
+        "Training Grounds",
+        "Endrek Sahr, Master Breeder",
+        "Bristly Bill, Spine Sower"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-perfectly-normal-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 6,
+          "catalogName": "Dan Hipp Foil",
+          "sku": "195166327273"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 5,
+          "catalogName": "Dan Hipp NF",
+          "sku": "195166327426"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Mystical Dispute",
+          "image": "assets/f178a8de33f4174bea45.webp"
+        },
+        {
+          "name": "An Offer You Can’t Refuse",
+          "image": "assets/b119a03019ee3e50c56c.webp"
+        },
+        {
+          "name": "Training Grounds",
+          "image": "assets/b1b9fcf6c7055b1043d9.webp"
+        },
+        {
+          "name": "Endrek Sahr, Master Breeder",
+          "image": "assets/5ac0a09a8e3724739949.webp"
+        },
+        {
+          "name": "Bristly Bill, Spine Sower",
+          "image": "assets/0d06b7551fa899c93d7f.webp"
+        }
+      ]
+    },
+    {
+      "id": "marvelearthsmightiestpets",
+      "title": "Marvel: Earth's Mightiest Pets",
+      "category": "Marvel",
+      "cards": [
+        "Ephemerate",
+        "Shark Typhoon",
+        "Lightning Bolt",
+        "Searing Blaze",
+        "Commune with Dinosaurs",
+        "Titanic Ultimatum"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-perfectly-normal-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 8,
+          "catalogName": "Earths Mightiest Pets Foil",
+          "sku": "195166327129"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 8,
+          "catalogName": "Earths Mightiest Pets NF",
+          "sku": "195166327099"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Ephemerate",
+          "image": "assets/b6872c23759b05080b73.webp"
+        },
+        {
+          "name": "Shark Typhoon",
+          "image": "assets/787e4578c2280a1cfd1a.webp"
+        },
+        {
+          "name": "Lightning Bolt",
+          "image": "assets/7e52d39b370da49ae5bd.webp"
+        },
+        {
+          "name": "Searing Blaze",
+          "image": "assets/a0a18cd6258dad444cd3.webp"
+        },
+        {
+          "name": "Commune with Dinosaurs",
+          "image": "assets/2a1a6279af54ee74fb28.webp"
+        },
+        {
+          "name": "Titanic Ultimatum",
+          "image": "assets/c8159cf0d8312dad29d3.webp"
+        }
+      ]
+    },
+    {
+      "id": "marvelhulksmash",
+      "title": "Marvel: Hulk SMASH!",
+      "category": "Marvel",
+      "cards": [
+        "Anger",
+        "Gratuitous Violence",
+        "Rishkar’s Expertise",
+        "Search for Tomorrow",
+        "Unnatural Growth"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-perfectly-normal-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 8,
+          "catalogName": "Hulk Smash Foil",
+          "sku": "195166327334"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 8,
+          "catalogName": "Hulk Smash NF",
+          "sku": "195166327396"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Anger",
+          "image": "assets/0f73cf40f6e172ed9454.webp"
+        },
+        {
+          "name": "Gratuitous Violence",
+          "image": "assets/d0d86af1bf553c6a64b3.webp"
+        },
+        {
+          "name": "Rishkar’s Expertise",
+          "image": "assets/52a24c5019e321e522b3.webp"
+        },
+        {
+          "name": "Search for Tomorrow",
+          "image": "assets/e4f96b79b427caeb50b2.webp"
+        },
+        {
+          "name": "Unnatural Growth",
+          "image": "assets/07b69c267e4f85841049.webp"
+        }
+      ]
+    },
+    {
+      "id": "marveltruebelieversinlove",
+      "title": "Marvel: True Believers in Love",
+      "category": "Marvel",
+      "cards": [
+        "Happily Ever After",
+        "True Love's Kiss",
+        "Run Away Together",
+        "Savor the Moment",
+        "Grave Pact",
+        "Thrill of Possibility"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1252789/secret-lair-x-marvel-true-believers-in-love",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/999b635ca2fe9a1cb9e2.webp",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 6,
+          "catalogName": "True Believers In Love Foil",
+          "sku": "195166327211"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 8,
+          "catalogName": "True Believers In Love NF",
+          "sku": "195166327242"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Happily Ever After",
+          "image": "assets/d4a6b317b22b91292cfe.webp"
+        },
+        {
+          "name": "True Love's Kiss",
+          "image": "assets/7b4f7d88e594a6e3b845.webp"
+        },
+        {
+          "name": "Run Away Together",
+          "image": "assets/49ca46a54e9beda8b86d.webp"
+        },
+        {
+          "name": "Savor the Moment",
+          "image": "assets/bcf5257aeb03fd0ab540.webp"
+        },
+        {
+          "name": "Grave Pact",
+          "image": "assets/64ae69f280efa59a09e1.webp"
+        },
+        {
+          "name": "Thrill of Possibility",
+          "image": "assets/c3ff40a33c8b19fac251.webp"
+        }
+      ]
+    },
+    {
+      "id": "marvelsironman",
+      "title": "Marvel’s Iron Man",
+      "category": "Marvel",
+      "cards": [
+        "Iron Man, Titan of Innovation",
+        "Galvanic Blast",
+        "Commander’s Plate",
+        "Sol Ring",
+        "Inventors’ Fair",
+        "Treasure token"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1018560/secret-lair-x-marvel-s-iron-man",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/e10162079fb04d56e669.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 85.0,
+          "qty": 1,
+          "catalogName": "Iron Man",
+          "sku": "195166284774"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Iron Man, Titan of Innovation",
+          "image": "assets/674224a8f660f7d51f71.webp"
+        },
+        {
+          "name": "Galvanic Blast",
+          "image": "assets/9d1c1e77d53c993dea68.webp"
+        },
+        {
+          "name": "Commander’s Plate",
+          "image": "assets/142bf0b533148fda7a29.webp"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/a39af5208c80ba766548.webp"
+        },
+        {
+          "name": "Inventors’ Fair",
+          "image": "assets/60aebc2c1fdf30e1beb7.webp"
+        },
+        {
+          "name": "Treasure token",
+          "image": "assets/63b464c3b7f53eee3d7d.webp"
+        }
+      ]
+    },
+    {
+      "id": "marvelsspidermanvillainousplots",
+      "title": "Marvel’s Spider-Man: Villainous Plots",
+      "category": "Marvel",
+      "cards": [
+        "Deadly Dispute",
+        "Go for the Throat",
+        "Lightning Greaves",
+        "Sol Ring",
+        "Command Tower"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1246592/secret-lair-x-marvel-s-spider-man-villainous-plots-foil-edition",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/b5453c68182c333424dd.webp",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 60.0,
+          "qty": 1,
+          "catalogName": "Villainous Plots Rainbow Foil",
+          "sku": "195166311289"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Deadly Dispute",
+          "image": "assets/12c557b233fb47491dbd.webp"
+        },
+        {
+          "name": "Go for the Throat",
+          "image": "assets/ef8985ccdaa24f154eb1.webp"
+        },
+        {
+          "name": "Lightning Greaves",
+          "image": "assets/15a4964cd4e0e257206b.webp"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/5532fc76928597373fee.webp"
+        },
+        {
+          "name": "Command Tower",
+          "image": "assets/967e2dbca84c6c4318f2.webp"
+        }
+      ]
+    },
+    {
+      "id": "mastersoftheuniversealliesandenemiesofeternia",
+      "title": "Masters of the Universe: Allies and Enemies of Eternia",
+      "category": "Masters of the Universe",
+      "cards": [
+        "Sakashima the Impostor",
+        "Kona, Rescue Beastie",
+        "Ertai Resurrected",
+        "Derevi, Empyrial Tactician",
+        "Samut, Voice of Dissent",
+        "Tetsuo, Imperial Champion"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-most-powerful-superdrop-in-the-universe",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 60.0,
+          "qty": 4,
+          "catalogName": "Eternia",
+          "sku": "195166344034"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 85.0,
+          "qty": 5,
+          "catalogName": "Eternia Foil",
+          "sku": "195166344188"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Sakashima the Impostor",
+          "image": "assets/5130c69da92e9767d974.webp"
+        },
+        {
+          "name": "Kona, Rescue Beastie",
+          "image": "assets/26bc005ff781a17226da.webp"
+        },
+        {
+          "name": "Ertai Resurrected",
+          "image": "assets/358b141fb7e42f564450.webp"
+        },
+        {
+          "name": "Derevi, Empyrial Tactician",
+          "image": "assets/0e06f59af3ec2235e8bc.webp"
+        },
+        {
+          "name": "Samut, Voice of Dissent",
+          "image": "assets/c824d81326cb195a5646.webp"
+        },
+        {
+          "name": "Tetsuo, Imperial Champion",
+          "image": "assets/45923cbbdef20c209505.webp"
+        }
+      ]
+    },
+    {
+      "id": "mastersoftheuniversebythepowerofgrayskull",
+      "title": "Masters of the Universe: By the Power of Grayskull!",
+      "category": "Masters of the Universe",
+      "cards": [
+        "Winota, Joiner of Forces",
+        "Crackle with Power",
+        "Delina, Wild Mage",
+        "Bruenor Battlehammer",
+        "Konda’s Banner"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1254731/secret-lair-x-masters-of-the-universe-by-the-power-of-grayskull",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/84ab4da59e8c14bf671e.webp",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 5,
+          "catalogName": "Grayskull",
+          "sku": "195166343921"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 5,
+          "catalogName": "Greyskull",
+          "sku": "195166343952"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Winota, Joiner of Forces",
+          "image": "assets/e4d207bc17525a330a9f.webp"
+        },
+        {
+          "name": "Crackle with Power",
+          "image": "assets/7750cbea2bffc8cb7f71.webp"
+        },
+        {
+          "name": "Delina, Wild Mage",
+          "image": "assets/c4d7e901e3aec307450d.webp"
+        },
+        {
+          "name": "Bruenor Battlehammer",
+          "image": "assets/6b00cca2d1cc741a1e5f.webp"
+        },
+        {
+          "name": "Konda’s Banner",
+          "image": "assets/131662d84457103d49b1.webp"
+        }
+      ]
+    },
+    {
+      "id": "mastersoftheuniversenyahhaha",
+      "title": "Masters of the Universe: Nyah-ha-ha!",
+      "category": "Masters of the Universe",
+      "cards": [
+        "Tinybones, the Pickpocket",
+        "Tasha’s Hideous Laughter",
+        "Bottomless Pit",
+        "Necrogen Mists",
+        "Breach the Multiverse"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-most-powerful-superdrop-in-the-universe",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 4,
+          "catalogName": "Nyah-ah-ah",
+          "sku": "195166344096"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 5,
+          "catalogName": "Nyah-ah-ah Foil",
+          "sku": "195166344003"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Tinybones, the Pickpocket",
+          "image": "assets/f58853405376cc84b8c6.webp"
+        },
+        {
+          "name": "Tasha’s Hideous Laughter",
+          "image": "assets/393d06e51980634f1798.webp"
+        },
+        {
+          "name": "Bottomless Pit",
+          "image": "assets/ab674b19801479cce099.webp"
+        },
+        {
+          "name": "Necrogen Mists",
+          "image": "assets/19f07b7b3f97047e27fa.webp"
+        },
+        {
+          "name": "Breach the Multiverse",
+          "image": "assets/6ad4b16b3889fdb1c122.webp"
+        }
+      ]
+    },
+    {
+      "id": "mastersoftheuniversesheraprincessofpower",
+      "title": "Masters of the Universe: She-Ra, Princess of Power",
+      "category": "Masters of the Universe",
+      "cards": [
+        "Sisay, Weatherlight Captain",
+        "Silence",
+        "Emiel the Blessed",
+        "Hajar, Loyal Bodyguard",
+        "Kutzil, Malamet Exemplar",
+        "Sol Ring"
+      ],
+      "source": "https://secretlair.wizards.com/eu/en/product/1254746/secret-lair-x-masters-of-the-universe-she-ra-princess-of-power",
+      "aliases": {
+        "Sisay, Weatherlight Captain": "She-Ra, Princess of Power",
+        "Emiel the Blessed": "Swift Wind, Steed of She-Ra",
+        "Hajar, Loyal Bodyguard": "Bow, Master Archer",
+        "Kutzil, Malamet Exemplar": "Catra, Force Captain"
+      },
+      "notes": "",
+      "image": "assets/f8050d54c1d1a75d6b5a.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 3,
+          "catalogName": "She Ra",
+          "sku": "195166344157"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 5,
+          "catalogName": "She Ra Foil",
+          "sku": "195166344126"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Sisay, Weatherlight Captain",
+          "image": "assets/8cd99346cecf1a5f2fb4.webp",
+          "displayName": "She-Ra, Princess of Power"
+        },
+        {
+          "name": "Silence",
+          "image": "assets/3114fe9e90adac7abd1b.webp"
+        },
+        {
+          "name": "Emiel the Blessed",
+          "image": "assets/ed511f8efa2639dab4a3.webp",
+          "displayName": "Swift Wind, Steed of She-Ra"
+        },
+        {
+          "name": "Hajar, Loyal Bodyguard",
+          "image": "assets/921c72adc1728296b213.webp",
+          "displayName": "Bow, Master Archer"
+        },
+        {
+          "name": "Kutzil, Malamet Exemplar",
+          "image": "assets/08289190af94a92bc78a.webp",
+          "displayName": "Catra, Force Captain"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/5940786727d244aa5f83.webp"
+        }
+      ]
+    },
+    {
+      "id": "mastersoftheuniversesoldseparately",
+      "title": "Masters of the Universe: Sold Separately",
+      "category": "Masters of the Universe",
+      "cards": [
+        "Fortune, Loyal Steed",
+        "The Gitrog, Ravenous Ride",
+        "Throne of the God-Pharaoh",
+        "Sword of War and Peace",
+        "Command Tower"
+      ],
+      "source": "https://secretlair.wizards.com/uk/en/product/1254761/secret-lair-x-masters-of-the-universe-sold-separately",
+      "aliases": {
+        "Fortune, Loyal Steed": "Battle-Cat, Fighting Tiger",
+        "The Gitrog, Ravenous Ride": "Panthor, Savage Cat",
+        "Throne of the God-Pharaoh": "Bone Throne",
+        "Sword of War and Peace": "Sword of Power"
+      },
+      "notes": "",
+      "image": "assets/86ad7e50312bb2232cf8.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 70.0,
+          "qty": 9,
+          "catalogName": "Sold Separately",
+          "sku": "195166344065"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 5,
+          "catalogName": "Sold Seperatly Foil",
+          "sku": "195166344218"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Fortune, Loyal Steed",
+          "image": "assets/d560d86c7015a43b2230.webp",
+          "displayName": "Battle-Cat, Fighting Tiger"
+        },
+        {
+          "name": "The Gitrog, Ravenous Ride",
+          "image": "assets/db63f7fcb9c67491c2c7.webp",
+          "displayName": "Panthor, Savage Cat"
+        },
+        {
+          "name": "Throne of the God-Pharaoh",
+          "image": "assets/5ea6a468f2c91a684c83.webp",
+          "displayName": "Bone Throne"
+        },
+        {
+          "name": "Sword of War and Peace",
+          "image": "assets/3206933532407afe7e6b.webp",
+          "displayName": "Sword of Power"
+        },
+        {
+          "name": "Command Tower",
+          "image": "assets/73fb92dc924055ef8095.webp",
+          "backImage": "assets/891d1070c972c8b2709b.webp"
+        }
+      ]
+    },
+    {
+      "id": "mylittleponyfriendshipismagic",
+      "title": "My Little Pony: Friendship is Magic",
+      "category": "Art & more",
+      "cards": [
+        "Generous Gift",
+        "Reconnaissance Mission",
+        "Radiate",
+        "Defense of the Heart",
+        "Arcane Signet",
+        "Sol Ring"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-back-to-school-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 75.0,
+          "qty": 1,
+          "catalogName": "Friendship Is Magic (Non Foil)",
+          "sku": "195166324951"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 60.0,
+          "qty": 1,
+          "catalogName": "Friendship Is Magic Foil",
+          "sku": "195166324920"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Generous Gift",
+          "image": "assets/ca342c83c57a031523c0.webp"
+        },
+        {
+          "name": "Reconnaissance Mission",
+          "image": "assets/c9d255c3649c6014eb4f.webp"
+        },
+        {
+          "name": "Radiate",
+          "image": "assets/e280493c3dbbdfb17083.webp"
+        },
+        {
+          "name": "Defense of the Heart",
+          "image": "assets/b5cf2c83049de81f99a3.webp"
+        },
+        {
+          "name": "Arcane Signet",
+          "image": "assets/c3fcdbf32dd70307fba8.webp"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/05fff6a9d49b403d5a8a.webp"
+        }
+      ]
+    },
+    {
+      "id": "mylittleponythelandsofequestria",
+      "title": "My Little Pony: The Lands of Equestria",
+      "category": "Art & more",
+      "cards": [
+        "Plains",
+        "Plains",
+        "Island",
+        "Island",
+        "Swamp",
+        "Swamp",
+        "Mountain",
+        "Mountain",
+        "Forest",
+        "Forest"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-back-to-school-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 55.0,
+          "qty": 7,
+          "catalogName": "Lands Of Equestria",
+          "sku": "195166325019"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 65.0,
+          "qty": 7,
+          "catalogName": "Lands Of Equestria Foil",
+          "sku": "195166324982"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Plains",
+          "image": "assets/ae5f1bdb27cc83c38eeb.webp"
+        },
+        {
+          "name": "Plains",
+          "image": "assets/ae5f1bdb27cc83c38eeb.webp"
+        },
+        {
+          "name": "Island",
+          "image": "assets/b75adbb56b8f6df8fcc3.webp"
+        },
+        {
+          "name": "Island",
+          "image": "assets/b75adbb56b8f6df8fcc3.webp"
+        },
+        {
+          "name": "Swamp",
+          "image": "assets/ef5eeef02e4f5115a869.webp"
+        },
+        {
+          "name": "Swamp",
+          "image": "assets/ef5eeef02e4f5115a869.webp"
+        },
+        {
+          "name": "Mountain",
+          "image": "assets/90209b268e705bc73af2.webp"
+        },
+        {
+          "name": "Mountain",
+          "image": "assets/90209b268e705bc73af2.webp"
+        },
+        {
+          "name": "Forest",
+          "image": "assets/68f64406497e8d08d826.webp"
+        },
+        {
+          "name": "Forest",
+          "image": "assets/68f64406497e8d08d826.webp"
+        }
+      ]
+    },
+    {
+      "id": "notebookgenius",
+      "title": "Notebook Genius",
+      "category": "Art & more",
+      "cards": [
+        "Lier, Disciple of the Drowned",
+        "Bloodghast",
+        "Storm-Kiln Artist",
+        "Anhelo, the Painter"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-back-to-school-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 6,
+          "catalogName": "Notebook Genius",
+          "sku": "195166325620"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 60.0,
+          "qty": 6,
+          "catalogName": "Notebook Genius Foil",
+          "sku": "195166325590"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Lier, Disciple of the Drowned",
+          "image": "assets/22d54cffe5074fee81fd.webp"
+        },
+        {
+          "name": "Bloodghast",
+          "image": "assets/d6911e113bbc98a5b0f3.webp"
+        },
+        {
+          "name": "Storm-Kiln Artist",
+          "image": "assets/18d9cc71c3adaae7e69d.webp"
+        },
+        {
+          "name": "Anhelo, the Painter",
+          "image": "assets/9361b9a076e9a244166e.webp"
+        }
+      ]
+    },
+    {
+      "id": "omensofchaos",
+      "title": "Omens of Chaos",
+      "category": "Art & more",
+      "cards": [
+        "Abrupt Decay",
+        "Batwing Brume",
+        "Chance for Glory",
+        "Counterflux",
+        "Growth Spiral"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-back-to-school-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 60.0,
+          "qty": 6,
+          "catalogName": "Omens Of Chaos",
+          "sku": "195166325507"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Abrupt Decay",
+          "image": "assets/eea6c263963cbfcafec2.webp"
+        },
+        {
+          "name": "Batwing Brume",
+          "image": "assets/f8b06daf3edc6d6cd305.webp"
+        },
+        {
+          "name": "Chance for Glory",
+          "image": "assets/65e107bf0bff66fc8025.webp"
+        },
+        {
+          "name": "Counterflux",
+          "image": "assets/77a28703245f435e37ad.webp"
+        },
+        {
+          "name": "Growth Spiral",
+          "image": "assets/05aa5ed53bff31f661b1.webp"
+        }
+      ]
+    },
+    {
+      "id": "purrmajesty",
+      "title": "Purr Majesty",
+      "category": "Art & more",
+      "cards": [
+        "Court of Grace",
+        "Reverent Mantra",
+        "Windborn Muse",
+        "Queen Marchesa",
+        "Ruinous Ultimatum"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-cats-are-the-best-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 125.0,
+          "qty": 2,
+          "catalogName": "Purr Majesty",
+          "sku": "195166340500"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Court of Grace",
+          "image": "assets/abbb6efaaac728e94ad8.webp"
+        },
+        {
+          "name": "Reverent Mantra",
+          "image": "assets/d0b9cdfc1c6b55a1c768.webp"
+        },
+        {
+          "name": "Windborn Muse",
+          "image": "assets/aee04bc8e3c655913c51.webp"
+        },
+        {
+          "name": "Queen Marchesa",
+          "image": "assets/655be3a31faeb5c1a178.webp"
+        },
+        {
+          "name": "Ruinous Ultimatum",
+          "image": "assets/c9c3625e6cc902e0d7fd.webp"
+        }
+      ]
+    },
+    {
+      "id": "returntothemysticalarchive",
+      "title": "Return to the Mystical Archive",
+      "category": "Art & more",
+      "cards": [
+        "Duty Beyond Death",
+        "Spell Pierce",
+        "Zombify",
+        "Abrade",
+        "Shared Roots"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-back-to-school-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 65.0,
+          "qty": 7,
+          "catalogName": "Return To Mystical Archive",
+          "sku": "195166335759"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 75.0,
+          "qty": 7,
+          "catalogName": "Return To Mystical Archive Foil",
+          "sku": "195166335728"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Duty Beyond Death",
+          "image": "assets/f5fc63ee4e0ab634b5b2.webp"
+        },
+        {
+          "name": "Spell Pierce",
+          "image": "assets/ffbe33b1508d448263e2.webp"
+        },
+        {
+          "name": "Zombify",
+          "image": "assets/0bbf0a132ceb84d9e7aa.webp"
+        },
+        {
+          "name": "Abrade",
+          "image": "assets/1dd5a100714f5665a5ac.webp"
+        },
+        {
+          "name": "Shared Roots",
+          "image": "assets/be5980da1ca48525b812.webp"
+        }
+      ]
+    },
+    {
+      "id": "sansmercy",
+      "title": "sAnS mERcY",
+      "category": "Art & more",
+      "cards": [
+        "Doom Blade",
+        "Massacre",
+        "Torment of Hailfire",
+        "Ruination",
+        "Mogis, God of Slaughter"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/965732/sans-mercy",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/0b82f51d2491cd8fec83.webp",
+      "variants": [
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 70.0,
+          "qty": 1,
+          "catalogName": "Secret Lair Sans Mercy Rainbow Foil",
+          "sku": "195166266749"
+        },
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 50.0,
+          "qty": 2,
+          "catalogName": "Secret Lair: Sans Mercy",
+          "sku": "195166266770"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Doom Blade",
+          "image": "assets/97329e5d683e8019e6dc.webp"
+        },
+        {
+          "name": "Massacre",
+          "image": "assets/d36e21b949d488e690a7.webp"
+        },
+        {
+          "name": "Torment of Hailfire",
+          "image": "assets/50d2ddfd9cd7e45fc7cb.webp"
+        },
+        {
+          "name": "Ruination",
+          "image": "assets/f3931a7ce1bcdbd00c95.webp"
+        },
+        {
+          "name": "Mogis, God of Slaughter",
+          "image": "assets/d1777510b4be38298e5a.webp"
+        }
+      ]
+    },
+    {
+      "id": "sheldonsspellbook",
+      "title": "Sheldon’s Spellbook",
+      "category": "Art & more",
+      "cards": [
+        "Teferi's Protection",
+        "Eladamri's Vineyard",
+        "Greater Good",
+        "Inkshield",
+        "Ruhan of the Fomori",
+        "Sol Ring",
+        "Command Tower"
+      ],
+      "source": "https://secretlair.wizards.com/eu/en/product/924738/sheldon-s-spellbook",
+      "aliases": {
+        "Ruhan of the Fomori": "Sheldon, the Commander"
+      },
+      "notes": "Greater Good is Italian-language.",
+      "image": "assets/14f689d7bf37927fa86f.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 65.0,
+          "qty": 1,
+          "catalogName": "Secret Lair: Sheldon's Spellbook",
+          "sku": "6125266276830"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Teferi's Protection",
+          "image": "assets/001076b993efe554b079.webp"
+        },
+        {
+          "name": "Eladamri's Vineyard",
+          "image": "assets/151069acced001ef8bcd.webp"
+        },
+        {
+          "name": "Greater Good",
+          "image": "assets/1a2dfc0824bbbdb7cb9a.webp"
+        },
+        {
+          "name": "Inkshield",
+          "image": "assets/8294540549ea5ce0735d.webp"
+        },
+        {
+          "name": "Ruhan of the Fomori",
+          "image": "assets/7441eca8c4560f3aad98.webp",
+          "displayName": "Sheldon, the Commander"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/f530a1192a50c42b9bbb.webp"
+        },
+        {
+          "name": "Command Tower",
+          "image": "assets/db23722c6085cc55dec9.webp"
+        }
+      ]
+    },
+    {
+      "id": "stardewvalleyaflickerinthedeep",
+      "title": "Stardew Valley: A Flicker in the Deep",
+      "category": "Stardew Valley",
+      "cards": [
+        "Atsushi, the Blazing Sky",
+        "Mitotic Slime",
+        "Arcane Signet",
+        "Sword of Forge and Frontier",
+        "Treasure Vault",
+        "Ooze Token",
+        "Treasure Token"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1253582/secret-lair-x-stardew-valley-a-flicker-in-the-deep",
+      "aliases": {
+        "Atsushi, the Blazing Sky": "Royal Serpent",
+        "Mitotic Slime": "Big Slime",
+        "Sword of Forge and Frontier": "Galaxy Sword"
+      },
+      "notes": "",
+      "image": "assets/58ba6f8ed3739b1924b1.webp",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 65.0,
+          "qty": 1,
+          "catalogName": "Stardew A Flicker In The Deep Foil",
+          "sku": "195166344386"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 55.0,
+          "qty": 4,
+          "catalogName": "Stardew A Flicker In The Deep Non Foil",
+          "sku": "195166344416"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Atsushi, the Blazing Sky",
+          "image": "assets/3d3a5887833621598ed9.webp",
+          "displayName": "Royal Serpent"
+        },
+        {
+          "name": "Mitotic Slime",
+          "image": "assets/c52e2008625ba22a8316.webp",
+          "displayName": "Big Slime"
+        },
+        {
+          "name": "Arcane Signet",
+          "image": "assets/b5acb4cfbfcd0c36c27a.webp"
+        },
+        {
+          "name": "Sword of Forge and Frontier",
+          "image": "assets/6e73b3066442a60ce66a.webp",
+          "displayName": "Galaxy Sword"
+        },
+        {
+          "name": "Treasure Vault",
+          "image": "assets/61e57b936d8155cdb5c6.webp"
+        },
+        {
+          "name": "Ooze Token",
+          "image": "assets/e46ec4928907862cc0d5.webp"
+        },
+        {
+          "name": "Treasure Token",
+          "image": "assets/e247da5d9ce371ca5238.webp"
+        }
+      ]
+    },
+    {
+      "id": "stardewvalleywelcometostardewvalley",
+      "title": "Stardew Valley: Welcome to Stardew Valley",
+      "category": "Stardew Valley",
+      "cards": [
+        "Stardew Valley",
+        "Wedding Ring",
+        "Dawn's Truce",
+        "Swords to Plowshares",
+        "Rites of Flourishing",
+        "Kynaios and Tiro of Meletis",
+        "Sol Ring",
+        "Food Token"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1253586/secret-lair-x-stardew-valley-welcome-to-stardew-valley",
+      "aliases": {
+        "Wedding Ring": "Mermaid’s Pendant",
+        "Dawn's Truce": "Pierre’s Truce",
+        "Kynaios and Tiro of Meletis": "The Welcoming Committee"
+      },
+      "notes": "",
+      "image": "assets/0b634569286ea7c2a007.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 21,
+          "catalogName": "Stardew Welcome To Stardew Valley",
+          "sku": "195166329864"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 70.0,
+          "qty": 1,
+          "catalogName": "Stardew Welcome To Stardew Valley Foil",
+          "sku": "195166329833"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Stardew Valley",
+          "image": "assets/bc74725b0fb42d31e28a.webp"
+        },
+        {
+          "name": "Wedding Ring",
+          "image": "assets/551e0d101a485e006987.webp",
+          "displayName": "Mermaid’s Pendant"
+        },
+        {
+          "name": "Dawn's Truce",
+          "image": "assets/4c7dea0bec32d2733142.webp",
+          "displayName": "Pierre’s Truce"
+        },
+        {
+          "name": "Swords to Plowshares",
+          "image": "assets/bc084ff69358b46dcebd.webp"
+        },
+        {
+          "name": "Rites of Flourishing",
+          "image": "assets/9a63b380598d847f67a8.webp"
+        },
+        {
+          "name": "Kynaios and Tiro of Meletis",
+          "image": "assets/7da4f7458751c19acebe.webp",
+          "displayName": "The Welcoming Committee"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/244f3aae9d72f9ccb236.webp"
+        },
+        {
+          "name": "Food Token",
+          "image": "assets/aab2bb2b43ecb1aab394.webp"
+        }
+      ]
+    },
+    {
+      "id": "teenagemutantninjaturtlesthelastronin",
+      "title": "Teenage Mutant Ninja Turtles — The Last Ronin",
+      "category": "TMNT",
+      "cards": [
+        "Settle the Wreckage",
+        "Mental Misstep",
+        "Ink-Eyes, Servant of Oni",
+        "Anger",
+        "Chord of Calling"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-totally-tubulair-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Traditional foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 2,
+          "catalogName": "Secret Lair TMNT Last Ronin Traditonal Foil",
+          "sku": "195166323046"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Settle the Wreckage",
+          "image": "assets/1a51e1f7503dd0b91dff.webp"
+        },
+        {
+          "name": "Mental Misstep",
+          "image": "assets/f94d9b65dbcd24d9063f.webp"
+        },
+        {
+          "name": "Ink-Eyes, Servant of Oni",
+          "image": "assets/2612368b02a181f33f55.webp"
+        },
+        {
+          "name": "Anger",
+          "image": "assets/b7cad6ddfeb37e7eaf6a.webp"
+        },
+        {
+          "name": "Chord of Calling",
+          "image": "assets/88993d1145761fafce6a.webp"
+        }
+      ]
+    },
+    {
+      "id": "teenagemutantninjaturtlesthemightymutanimals",
+      "title": "Teenage Mutant Ninja Turtles — The Mighty Mutanimals",
+      "category": "TMNT",
+      "cards": [
+        "Deepglow Skate",
+        "Pirated Copy",
+        "Kediss, Emberclaw Familiar",
+        "Hardened Scales",
+        "Triumph of the Hordes"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-totally-tubulair-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Traditional foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 2,
+          "catalogName": "Secret Lair TMNT The Mighty Mutanimals Traditonal Foil",
+          "sku": "195166322988"
+        },
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 1,
+          "catalogName": "Secret Lair TMNT Thge Mighty Mutanimals",
+          "sku": "195166323015"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Deepglow Skate",
+          "image": "assets/cb4e11626f4d29b8c905.webp"
+        },
+        {
+          "name": "Pirated Copy",
+          "image": "assets/a9fde8ebed46ca194361.webp"
+        },
+        {
+          "name": "Kediss, Emberclaw Familiar",
+          "image": "assets/28fd88a4d68ba4864bd4.webp"
+        },
+        {
+          "name": "Hardened Scales",
+          "image": "assets/b4f2fb4679a9e4260b38.webp"
+        },
+        {
+          "name": "Triumph of the Hordes",
+          "image": "assets/6d8017dff499d93ec0e1.webp"
+        }
+      ]
+    },
+    {
+      "id": "teenagemutantninjaturtlesvhsvillains",
+      "title": "Teenage Mutant Ninja Turtles — VHS Villains",
+      "category": "TMNT",
+      "cards": [
+        "Delver of Secrets // Insectile Aberration",
+        "Higure, the Still Wind",
+        "Species Specialist",
+        "Rampaging Baloths",
+        "Triskelion"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-totally-tubulair-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 3,
+          "catalogName": "Secret Lair TMNT VHS Villans",
+          "sku": "195166322957"
+        },
+        {
+          "label": "Traditional foil",
+          "kind": "foil",
+          "price": 105.0,
+          "qty": 1,
+          "catalogName": "Secret Lair TMNT VHS Villans Traditonal Foil",
+          "sku": "195166322926"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Delver of Secrets // Insectile Aberration",
+          "image": "assets/80b76577256aa31f52e1.webp",
+          "backImage": "assets/b40edc1746cb23a3dd09.webp"
+        },
+        {
+          "name": "Higure, the Still Wind",
+          "image": "assets/afdd100ed719fe199ff8.webp"
+        },
+        {
+          "name": "Species Specialist",
+          "image": "assets/4219edf96ae70ab423ee.webp"
+        },
+        {
+          "name": "Rampaging Baloths",
+          "image": "assets/e7ddb2bb57fdbedf7fa1.webp"
+        },
+        {
+          "name": "Triskelion",
+          "image": "assets/e3a45253d6316bf31120.webp"
+        }
+      ]
+    },
+    {
+      "id": "theeyeshaveit",
+      "title": "The Eyes Have It",
+      "category": "Art & more",
+      "cards": [
+        "Counterbalance",
+        "Gitaxian Probe",
+        "Opt",
+        "Otherworldly Gaze",
+        "Baleful Strix"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1245628/the-eyes-have-it",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/83d6f925106da1bcad2c.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 6,
+          "catalogName": "The Eyes Have It",
+          "sku": "195166304540"
+        },
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 75.0,
+          "qty": 6,
+          "catalogName": "The Eyes Have It Rainbow Foil",
+          "sku": "195166304519"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Counterbalance",
+          "image": "assets/435797d4a31cc6d9104b.webp"
+        },
+        {
+          "name": "Gitaxian Probe",
+          "image": "assets/a14389eec84934f6c7bb.webp"
+        },
+        {
+          "name": "Opt",
+          "image": "assets/4fcc652033b986c97b26.webp"
+        },
+        {
+          "name": "Otherworldly Gaze",
+          "image": "assets/14f6fa9b6308241cd133.webp"
+        },
+        {
+          "name": "Baleful Strix",
+          "image": "assets/9646ff1f4cec83eb5bcc.webp"
+        }
+      ]
+    },
+    {
+      "id": "thefairestdropofall",
+      "title": "The Fairest Drop of All",
+      "category": "Art & more",
+      "cards": [
+        "Estrid's Invocation",
+        "Steely Resolve",
+        "Estrid, the Masked",
+        "Tuvasa, the Sunlit"
+      ],
+      "source": "https://secretlair.wizards.com/uk/product/1107225/the-fairest-drop-of-all-foil-edition",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/5cd0ace62a2ff1f30e26.webp",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 50.0,
+          "qty": 1,
+          "catalogName": "Secret Lair: The Fairest Drop of All Foil",
+          "sku": "195166246239"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Estrid's Invocation",
+          "image": "assets/5cfcd2b61474cf3ea44f.webp",
+          "backImage": "assets/2a1562bc01cc4264c72a.webp"
+        },
+        {
+          "name": "Steely Resolve",
+          "image": "assets/0ca656b69364651feed2.webp",
+          "backImage": "assets/1ddb350bd00df7a230f0.webp"
+        },
+        {
+          "name": "Estrid, the Masked",
+          "image": "assets/454cb6080825b13c4818.webp",
+          "backImage": "assets/04e987f3bf2889a18579.webp"
+        },
+        {
+          "name": "Tuvasa, the Sunlit",
+          "image": "assets/3a075c4ef08a17bddf39.webp",
+          "backImage": "assets/6a2420cb14dba4314a8b.webp"
+        }
+      ]
+    },
+    {
+      "id": "thehobbitsecondbreakfastandbeyond",
+      "title": "The Hobbit — Second Breakfast and Beyond",
+      "category": "The Hobbit",
+      "cards": [
+        "Food token",
+        "Food token",
+        "Food token",
+        "Food token",
+        "Food token",
+        "Food token",
+        "Food token"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-marvelous-mathom-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 70.0,
+          "qty": 6,
+          "catalogName": "Second Breakfast & Beyond",
+          "sku": "195166328195"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 95.0,
+          "qty": 4,
+          "catalogName": "Second Breakfast & Beyond Foil",
+          "sku": "195166328164"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Food token",
+          "image": "assets/34ae7e904dad176ca09f.webp"
+        },
+        {
+          "name": "Food token",
+          "image": "assets/38b514a8ae8c9ce67147.webp"
+        },
+        {
+          "name": "Food token",
+          "image": "assets/908eae98513e424c2648.webp"
+        },
+        {
+          "name": "Food token",
+          "image": "assets/cb118520e8c95cfec1e2.webp"
+        },
+        {
+          "name": "Food token",
+          "image": "assets/26d5357917831003be6e.webp"
+        },
+        {
+          "name": "Food token",
+          "image": "assets/a49afcd6b3a586b38a24.webp"
+        },
+        {
+          "name": "Food token",
+          "image": "assets/e035e294f312452c5c02.webp"
+        }
+      ]
+    },
+    {
+      "id": "thehobbitdesolation",
+      "title": "The Hobbit: Desolation",
+      "category": "The Hobbit",
+      "cards": [
+        "Defile",
+        "Diabolic Intent",
+        "Dread Return",
+        "Mirkwood Bats",
+        "Read the Bones"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-marvelous-mathom-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 6,
+          "catalogName": "Desolation",
+          "sku": "195166329789"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 2,
+          "catalogName": "Desolation Foil",
+          "sku": "195166329758"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Defile",
+          "image": "assets/fea5d5ba17646f3901a3.webp"
+        },
+        {
+          "name": "Diabolic Intent",
+          "image": "assets/c421de0018346098f327.webp"
+        },
+        {
+          "name": "Dread Return",
+          "image": "assets/de939d3fa4471fbc7d04.webp"
+        },
+        {
+          "name": "Mirkwood Bats",
+          "image": "assets/124f2c709b840450f91a.webp"
+        },
+        {
+          "name": "Read the Bones",
+          "image": "assets/c289cf08ee430ae9c478.webp"
+        }
+      ]
+    },
+    {
+      "id": "thehobbithewhowalksunseen",
+      "title": "The Hobbit: He Who Walks Unseen",
+      "category": "The Hobbit",
+      "cards": [
+        "Arcane Heist",
+        "Contentious Plan",
+        "Curiosity",
+        "Solve the Equation",
+        "Windfall"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-marvelous-mathom-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 75.0,
+          "qty": 1,
+          "catalogName": "He That Walks Unseen - Out Of Sight Foil",
+          "sku": "195166329642"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Arcane Heist",
+          "image": "assets/d14baf9b0955cee55e19.webp"
+        },
+        {
+          "name": "Contentious Plan",
+          "image": "assets/2e5b7bf2b29290c0753d.webp"
+        },
+        {
+          "name": "Curiosity",
+          "image": "assets/e99e04e56cd88c9c4fe1.webp"
+        },
+        {
+          "name": "Solve the Equation",
+          "image": "assets/deb46658b2d5bcf0ca8d.webp"
+        },
+        {
+          "name": "Windfall",
+          "image": "assets/3db4eedf5fa8f5e40c96.webp"
+        }
+      ]
+    },
+    {
+      "id": "thehobbitovertheedgeofthewild",
+      "title": "The Hobbit: Over the Edge of the Wild",
+      "category": "The Hobbit",
+      "cards": [
+        "Cloudshift",
+        "Tocasia’s Welcome",
+        "Stony Silence",
+        "Imp’s Mischief",
+        "Seize the Spoils"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-marvelous-mathom-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 6,
+          "catalogName": "Over The Edge Of The World",
+          "sku": "195166328133"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 12,
+          "catalogName": "Over The Edge Of The World Foil",
+          "sku": "195166328102"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Cloudshift",
+          "image": "assets/cac070396cf38dd7bf98.webp"
+        },
+        {
+          "name": "Tocasia’s Welcome",
+          "image": "assets/5a2e937f9a7b011c306b.webp"
+        },
+        {
+          "name": "Stony Silence",
+          "image": "assets/de2d3f44dd830231cb19.webp"
+        },
+        {
+          "name": "Imp’s Mischief",
+          "image": "assets/f2ad7c1eec6b9c221764.webp"
+        },
+        {
+          "name": "Seize the Spoils",
+          "image": "assets/c8b13ccfd1d8495292ac.webp"
+        }
+      ]
+    },
+    {
+      "id": "thehobbitsmaugsspoils",
+      "title": "The Hobbit: Smaug’s Spoils",
+      "category": "The Hobbit",
+      "cards": [
+        "Fellwar Stone",
+        "Lightning Greaves",
+        "Liquimetal Torque",
+        "Sol Ring",
+        "Thought Vessel"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1254161/secret-lair-x-the-hobbit-smaug-s-spoils",
+      "aliases": {
+        "Fellwar Stone": "Erebor Heirloom"
+      },
+      "notes": "",
+      "image": "assets/e7a7bac3f5018a2999f1.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 3,
+          "catalogName": "Smaug's Spoils",
+          "sku": "195166328072"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Fellwar Stone",
+          "image": "assets/501f7ff55deca5825762.webp",
+          "displayName": "Erebor Heirloom"
+        },
+        {
+          "name": "Lightning Greaves",
+          "image": "assets/3b17c9928b92fd0f38ce.webp"
+        },
+        {
+          "name": "Liquimetal Torque",
+          "image": "assets/88302dd1c6b944a190b2.webp"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/534f15b63debaa437d28.webp"
+        },
+        {
+          "name": "Thought Vessel",
+          "image": "assets/49adc9621a4cf06851cd.webp"
+        }
+      ]
+    },
+    {
+      "id": "thelastofusparti",
+      "title": "The Last of Us Part I",
+      "category": "Video games",
+      "cards": [
+        "Ellie, Brick Master",
+        "Joel, Resolute Survivor",
+        "Cabal Ritual",
+        "Haunted One",
+        "Cordyceps Infected token"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 4,
+          "catalogName": "Magic the Gathering Secret Lair X The Last of Us Part I (Foil)",
+          "sku": "195166308654"
+        },
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 4,
+          "catalogName": "Secret Lair The Last Of Us Part 1",
+          "sku": "195166308678"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Ellie, Brick Master",
+          "image": "assets/8ac7737367966dc3097c.webp"
+        },
+        {
+          "name": "Joel, Resolute Survivor",
+          "image": "assets/0ebe3509b603dca0e076.webp"
+        },
+        {
+          "name": "Cabal Ritual",
+          "image": "assets/53410d6139b3a7587f04.webp"
+        },
+        {
+          "name": "Haunted One",
+          "image": "assets/9502cc148e1f41fff81a.webp"
+        },
+        {
+          "name": "Cordyceps Infected token",
+          "image": "assets/7d642d8b9810a159ac15.webp"
+        }
+      ]
+    },
+    {
+      "id": "thelastofuspartii",
+      "title": "The Last of Us Part II",
+      "category": "Video games",
+      "cards": [
+        "Abby, Merciless Soldier",
+        "Ellie, Vengeful Hunter",
+        "Dictate of Erebos",
+        "Mycoloth",
+        "Cordyceps Infected token"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 5,
+          "catalogName": "Magic the Gathering Secret Lair X The Last of Us Part II (Foil)",
+          "sku": "195166308692"
+        },
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 6,
+          "catalogName": "Secret Lair Last Of Us Part 2",
+          "sku": "195166308715"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Abby, Merciless Soldier",
+          "image": "assets/7392599806b5a1f4574c.webp"
+        },
+        {
+          "name": "Ellie, Vengeful Hunter",
+          "image": "assets/f6a7e23799c790e5642b.webp"
+        },
+        {
+          "name": "Dictate of Erebos",
+          "image": "assets/9c7c3437580b411d623c.webp"
+        },
+        {
+          "name": "Mycoloth",
+          "image": "assets/42930879800c9f8412b9.webp"
+        },
+        {
+          "name": "Cordyceps Infected token",
+          "image": "assets/67856ac0ad11951d6a57.webp"
+        }
+      ]
+    },
+    {
+      "id": "tobysjourneybygarybaseman",
+      "title": "Toby’s Journey by Gary Baseman",
+      "category": "Art & more",
+      "cards": [
+        "Sovereign Okinec Ahau",
+        "Trailblazer's Boots",
+        "Long Goodbye",
+        "Farseek",
+        "Prismatic Vista"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1252574/toby-s-journey-by-gary-baseman",
+      "aliases": {
+        "Sovereign Okinec Ahau": "All-Seeing Toby"
+      },
+      "notes": "",
+      "image": "assets/146c7f39d44ab693e58e.webp",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 50.0,
+          "qty": 12,
+          "catalogName": "Tobys Journey",
+          "sku": "195166340586"
+        },
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 50.0,
+          "qty": 12,
+          "catalogName": "Tobys Journey Foil",
+          "sku": "195166340531"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Sovereign Okinec Ahau",
+          "image": "assets/7de0535de7b613ed4fae.webp",
+          "displayName": "All-Seeing Toby"
+        },
+        {
+          "name": "Trailblazer's Boots",
+          "image": "assets/28f82cda89fd677eb374.webp"
+        },
+        {
+          "name": "Long Goodbye",
+          "image": "assets/b4233f5bfcebd37fd643.webp"
+        },
+        {
+          "name": "Farseek",
+          "image": "assets/a07d5adca7d28b99e636.webp"
+        },
+        {
+          "name": "Prismatic Vista",
+          "image": "assets/1ac25ed66e71edc8ca2c.webp"
+        }
+      ]
+    },
+    {
+      "id": "trickortreat",
+      "title": "Trick or Treat",
+      "category": "Art & more",
+      "cards": [
+        "Vito, Thorn of the Dusk Rose",
+        "Satoru Umezawa",
+        "Voja, Jaws of the Conclave",
+        "Wilhelt, the Rotcleaver",
+        "Liberator, Urza's Battlethopter"
+      ],
+      "source": "https://magic.wizards.com/en/news/feature/secret-lair-secret-scare-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 45.0,
+          "qty": 8,
+          "catalogName": "Secret Lair Trick Or Treat",
+          "sku": "195166312026"
+        },
+        {
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 7,
+          "catalogName": "Secret Lair Trick Or Treat Rainbow Foil",
+          "sku": "195166312002"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Vito, Thorn of the Dusk Rose",
+          "image": "assets/e4d6d43f68b0ec0db4fa.webp"
+        },
+        {
+          "name": "Satoru Umezawa",
+          "image": "assets/5d99797c26db6a570eaa.webp"
+        },
+        {
+          "name": "Voja, Jaws of the Conclave",
+          "image": "assets/e7c6a0387a23b0e603fd.webp"
+        },
+        {
+          "name": "Wilhelt, the Rotcleaver",
+          "image": "assets/6a57105cff182d82f7f5.webp"
+        },
+        {
+          "name": "Liberator, Urza's Battlethopter",
+          "image": "assets/758df0c268e80f3fbac1.webp"
+        }
+      ]
+    },
+    {
+      "id": "uncharted",
+      "title": "Uncharted",
+      "category": "Video games",
+      "cards": [
+        "Nathan Drake, Treasure Hunter",
+        "Midnight Clock",
+        "Whip of Erebos",
+        "Chain Reaction",
+        "Passionate Archaeologist"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
+      "aliases": {},
+      "notes": "",
+      "image": "",
+      "variants": [
+        {
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 5,
+          "catalogName": "Magic the Gathering Secret Lair X Uncharted (Foil)",
+          "sku": "195166308517"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 45.0,
+          "qty": 7,
+          "catalogName": "Magic the Gathering Secret Lair X Uncharted (Non-Foil)",
+          "sku": "195166308531"
+        }
+      ],
+      "cardImages": [
+        {
+          "name": "Nathan Drake, Treasure Hunter",
+          "image": "assets/a95c5ad891bd974214c1.webp"
+        },
+        {
+          "name": "Midnight Clock",
+          "image": "assets/5d66bf11079959b5b4cf.webp"
+        },
+        {
+          "name": "Whip of Erebos",
+          "image": "assets/af19b659c45789c92ea5.webp"
+        },
+        {
+          "name": "Chain Reaction",
+          "image": "assets/913886ae80f79fea1436.webp"
+        },
+        {
+          "name": "Passionate Archaeologist",
+          "image": "assets/c672cb30b988c253ae6b.webp"
+        }
+      ]
+    }
+  ]
+}
