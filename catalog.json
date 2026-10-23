@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-23",
   "drops": [
     {
       "id": "avatarthelastairbenderalottolearn",
@@ -131,7 +131,7 @@
           "label": "Rainbow foil",
           "kind": "foil",
           "price": 65.0,
-          "qty": 13,
+          "qty": 12,
           "catalogName": "Secret Lair Avatar My Cabbages Rainbow Foil",
           "sku": "195166312415"
         }
@@ -295,7 +295,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 4,
+          "qty": 5,
           "catalogName": "Back In My Day",
           "sku": "195166315003"
         },
@@ -476,7 +476,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 5,
+          "qty": 1,
           "catalogName": "Cosmic Chill Foil",
           "sku": "195166331485"
         },
@@ -484,7 +484,7 @@
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 45.0,
-          "qty": 3,
+          "qty": 2,
           "catalogName": "Cosmic Chill NF",
           "sku": "195166331515"
         }
@@ -1089,7 +1089,7 @@
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 45.0,
-          "qty": 6,
+          "qty": 5,
           "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Lands of The Forgotten Realms Non-Foil Edition",
           "sku": "195166323299"
         }
@@ -1160,6 +1160,14 @@
           "qty": 1,
           "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Shadowheart's Devotion Foil Edition",
           "sku": "195166320724"
+        },
+        {
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 70.0,
+          "qty": 1,
+          "catalogName": "Magic: The Gathering Secret Lair X Dungeons & Dragons: Shadowheart's Devotion Non-Foil Edition",
+          "sku": "195166320755"
         }
       ],
       "cardImages": [
@@ -1321,7 +1329,7 @@
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 45.0,
-          "qty": 19,
+          "qty": 21,
           "catalogName": "Beyond Vault 33 Non-Foil",
           "sku": "195166318943"
         }
@@ -1429,7 +1437,7 @@
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 45.0,
-          "qty": 3,
+          "qty": 2,
           "catalogName": "Gene Luen Yang NF",
           "sku": "195166314846"
         }
@@ -1476,7 +1484,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 3,
+          "qty": 1,
           "catalogName": "Secret Lair TMNT Featuring Kevin Eastman (Colors)",
           "sku": "195166329079"
         },
@@ -1484,7 +1492,7 @@
           "label": "Traditional foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 2,
+          "qty": 1,
           "catalogName": "Secret Lair TMNT Featuring Kevin Eastman Traditonal Foil (Colors)",
           "sku": "195166329048"
         }
@@ -1527,7 +1535,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 2,
+          "qty": 1,
           "catalogName": "Secret Lair TMNT Featuring Kevin Eastman (Inks)",
           "sku": "195166323138"
         },
@@ -1535,7 +1543,7 @@
           "label": "Traditional foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 2,
+          "qty": 1,
           "catalogName": "Secret Lair TMNT Featuring Kevin Eastman Traditonal Foil (Inks)",
           "sku": "195166323107"
         }
@@ -1675,54 +1683,6 @@
       ]
     },
     {
-      "id": "furbydooaynoolah",
-      "title": "Furby — Doo-ay Noo-lah",
-      "category": "Art & more",
-      "cards": [
-        "Distant Melody",
-        "Explore",
-        "Inspiring Call",
-        "Chromatic Lantern",
-        "Sol Ring"
-      ],
-      "source": "https://magic.wizards.com/en/news/feature/secret-lair-secret-scare-superdrop",
-      "aliases": {},
-      "notes": "",
-      "image": "",
-      "variants": [
-        {
-          "label": "Confetti foil",
-          "kind": "foil",
-          "price": 80.0,
-          "qty": 1,
-          "catalogName": "Secret Lair Furby Doo-ay Noo-lah Confetti Foil",
-          "sku": "195166314624"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Distant Melody",
-          "image": "assets/b379bc57caf6311605eb.webp"
-        },
-        {
-          "name": "Explore",
-          "image": "assets/6c51e6a0ed557921253a.webp"
-        },
-        {
-          "name": "Inspiring Call",
-          "image": "assets/b9e14c72da839b1d1245.webp"
-        },
-        {
-          "name": "Chromatic Lantern",
-          "image": "assets/e00d9f3a289a22dc5c61.webp"
-        },
-        {
-          "name": "Sol Ring",
-          "image": "assets/4dd2270d68035f339950.webp"
-        }
-      ]
-    },
-    {
       "id": "furbythegathering",
       "title": "Furby — The Gathering",
       "category": "Art & more",
@@ -1742,7 +1702,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 50.0,
-          "qty": 8,
+          "qty": 7,
           "catalogName": "Secret Lair Furby The Gathering",
           "sku": "195166311548"
         },
@@ -1910,7 +1870,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 6,
+          "qty": 5,
           "catalogName": "Garfield Motivationally Challenged Foil",
           "sku": "195166332505"
         }
@@ -1995,98 +1955,6 @@
       ]
     },
     {
-      "id": "godofwargreek",
-      "title": "God of War — Greek",
-      "category": "Video games",
-      "cards": [
-        "Kratos, God of War",
-        "World at War",
-        "Rite of Flame",
-        "Sulfuric Vortex",
-        "Pyrohemia"
-      ],
-      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
-      "aliases": {},
-      "notes": "",
-      "image": "",
-      "variants": [
-        {
-          "label": "Standard · confirm finish",
-          "kind": "standard",
-          "price": 55.0,
-          "qty": 1,
-          "catalogName": "Secret Lair God Of War Greek",
-          "sku": "195166308456"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Kratos, God of War",
-          "image": "assets/b17e3981ca735f1a3e2c.webp"
-        },
-        {
-          "name": "World at War",
-          "image": "assets/75a95738a6f6dcd52872.webp"
-        },
-        {
-          "name": "Rite of Flame",
-          "image": "assets/a1ff78fa27f886d43f93.webp"
-        },
-        {
-          "name": "Sulfuric Vortex",
-          "image": "assets/b3d7d6ca3eaca5b6aea3.webp"
-        },
-        {
-          "name": "Pyrohemia",
-          "image": "assets/df5c7a1fbc86be3e1464.webp"
-        }
-      ]
-    },
-    {
-      "id": "godofwarnorse",
-      "title": "God of War — Norse",
-      "category": "Video games",
-      "cards": [
-        "Atreus, Impulsive Son",
-        "Kratos, Stoic Father",
-        "Teferi's Ageless Insight",
-        "Iroas, God of Victory"
-      ],
-      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
-      "aliases": {},
-      "notes": "",
-      "image": "",
-      "variants": [
-        {
-          "label": "Standard · confirm finish",
-          "kind": "standard",
-          "price": 35.0,
-          "qty": 1,
-          "catalogName": "Secret Lair God Of War Norse",
-          "sku": "195166308494"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Atreus, Impulsive Son",
-          "image": "assets/43ce9296bdcaacf8019f.webp"
-        },
-        {
-          "name": "Kratos, Stoic Father",
-          "image": "assets/6b8f07fd275534ec2c53.webp"
-        },
-        {
-          "name": "Teferi's Ageless Insight",
-          "image": "assets/f3302844c857c791f08e.webp",
-          "backImage": "assets/8248ccf594f1ba3c0517.webp"
-        },
-        {
-          "name": "Iroas, God of Victory",
-          "image": "assets/7fbdf7ad7a65973abb09.webp"
-        }
-      ]
-    },
-    {
       "id": "horizonintotheforbiddenwest",
       "title": "Horizon — Into the Forbidden West",
       "category": "Video games",
@@ -2106,7 +1974,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 65.0,
-          "qty": 3,
+          "qty": 2,
           "catalogName": "Secret Lair X Horizon: Into the Forbidden West (Foil)",
           "sku": "195166308555"
         }
@@ -2240,59 +2108,6 @@
         {
           "name": "Mindcrank",
           "image": "assets/59bc3a8f6dff2a593481.webp"
-        }
-      ]
-    },
-    {
-      "id": "ironmaidenalbumart",
-      "title": "Iron Maiden: Album Art",
-      "category": "Art & more",
-      "cards": [
-        "Lethal Scheme",
-        "Grave Titan",
-        "Animate Dead",
-        "Temporal Trespass",
-        "Unearth",
-        "Lignify"
-      ],
-      "source": "https://secretlair.wizards.com/us/en/product/1247702/secret-lair-x-iron-maiden-album-art-foil-edition",
-      "aliases": {},
-      "notes": "",
-      "image": "assets/800f2abc9f91bff70777.webp",
-      "variants": [
-        {
-          "label": "Non-foil",
-          "kind": "nonfoil",
-          "price": 85.0,
-          "qty": 1,
-          "catalogName": "Magic the Gathering Secret Lair x Iron Maiden: Album Art​​ (Non-Foil)",
-          "sku": "195166312927"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Lethal Scheme",
-          "image": "assets/8b4fba247624b6da39a3.webp"
-        },
-        {
-          "name": "Grave Titan",
-          "image": "assets/9a7a977e81e722d1be61.webp"
-        },
-        {
-          "name": "Animate Dead",
-          "image": "assets/2d068ab2abe1df26dfbd.webp"
-        },
-        {
-          "name": "Temporal Trespass",
-          "image": "assets/d07d6f0a83be66f3daf4.webp"
-        },
-        {
-          "name": "Unearth",
-          "image": "assets/afa69417f13a3ab3d09b.webp"
-        },
-        {
-          "name": "Lignify",
-          "image": "assets/8dbf3cf287007f78a8e0.webp"
         }
       ]
     },
@@ -2478,7 +2293,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 6,
+          "qty": 5,
           "catalogName": "Dan Hipp Foil",
           "sku": "195166327273"
         },
@@ -2535,7 +2350,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 8,
+          "qty": 7,
           "catalogName": "Earths Mightiest Pets Foil",
           "sku": "195166327129"
         },
@@ -2595,7 +2410,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 8,
+          "qty": 7,
           "catalogName": "Hulk Smash Foil",
           "sku": "195166327334"
         },
@@ -2603,7 +2418,7 @@
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 45.0,
-          "qty": 8,
+          "qty": 7,
           "catalogName": "Hulk Smash NF",
           "sku": "195166327396"
         }
@@ -2652,7 +2467,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 6,
+          "qty": 5,
           "catalogName": "True Believers In Love Foil",
           "sku": "195166327211"
         },
@@ -2742,54 +2557,6 @@
         {
           "name": "Treasure token",
           "image": "assets/63b464c3b7f53eee3d7d.webp"
-        }
-      ]
-    },
-    {
-      "id": "marvelsspidermanvillainousplots",
-      "title": "Marvel’s Spider-Man: Villainous Plots",
-      "category": "Marvel",
-      "cards": [
-        "Deadly Dispute",
-        "Go for the Throat",
-        "Lightning Greaves",
-        "Sol Ring",
-        "Command Tower"
-      ],
-      "source": "https://secretlair.wizards.com/us/en/product/1246592/secret-lair-x-marvel-s-spider-man-villainous-plots-foil-edition",
-      "aliases": {},
-      "notes": "",
-      "image": "assets/b5453c68182c333424dd.webp",
-      "variants": [
-        {
-          "label": "Rainbow foil",
-          "kind": "foil",
-          "price": 60.0,
-          "qty": 1,
-          "catalogName": "Villainous Plots Rainbow Foil",
-          "sku": "195166311289"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Deadly Dispute",
-          "image": "assets/12c557b233fb47491dbd.webp"
-        },
-        {
-          "name": "Go for the Throat",
-          "image": "assets/ef8985ccdaa24f154eb1.webp"
-        },
-        {
-          "name": "Lightning Greaves",
-          "image": "assets/15a4964cd4e0e257206b.webp"
-        },
-        {
-          "name": "Sol Ring",
-          "image": "assets/5532fc76928597373fee.webp"
-        },
-        {
-          "name": "Command Tower",
-          "image": "assets/967e2dbca84c6c4318f2.webp"
         }
       ]
     },
@@ -2930,7 +2697,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 4,
+          "qty": 3,
           "catalogName": "Nyah-ah-ah",
           "sku": "195166344096"
         },
@@ -2992,7 +2759,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 3,
+          "qty": 6,
           "catalogName": "She Ra",
           "sku": "195166344157"
         },
@@ -3000,7 +2767,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 5,
+          "qty": 3,
           "catalogName": "She Ra Foil",
           "sku": "195166344126"
         }
@@ -3061,7 +2828,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 70.0,
-          "qty": 9,
+          "qty": 7,
           "catalogName": "Sold Separately",
           "sku": "195166344065"
         },
@@ -3069,7 +2836,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 5,
+          "qty": 7,
           "catalogName": "Sold Seperatly Foil",
           "sku": "195166344218"
         }
@@ -3783,7 +3550,7 @@
           "label": "Traditional foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 2,
+          "qty": 1,
           "catalogName": "Secret Lair TMNT The Mighty Mutanimals Traditonal Foil",
           "sku": "195166322988"
         },
@@ -4001,7 +3768,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 70.0,
-          "qty": 6,
+          "qty": 5,
           "catalogName": "Second Breakfast & Beyond",
           "sku": "195166328195"
         },
@@ -4009,7 +3776,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 95.0,
-          "qty": 4,
+          "qty": 3,
           "catalogName": "Second Breakfast & Beyond Foil",
           "sku": "195166328164"
         }
@@ -4073,7 +3840,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 2,
+          "qty": 1,
           "catalogName": "Desolation Foil",
           "sku": "195166329758"
         }
@@ -4102,54 +3869,6 @@
       ]
     },
     {
-      "id": "thehobbithewhowalksunseen",
-      "title": "The Hobbit: He Who Walks Unseen",
-      "category": "The Hobbit",
-      "cards": [
-        "Arcane Heist",
-        "Contentious Plan",
-        "Curiosity",
-        "Solve the Equation",
-        "Windfall"
-      ],
-      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-a-marvelous-mathom-superdrop",
-      "aliases": {},
-      "notes": "",
-      "image": "",
-      "variants": [
-        {
-          "label": "Foil",
-          "kind": "foil",
-          "price": 75.0,
-          "qty": 1,
-          "catalogName": "He That Walks Unseen - Out Of Sight Foil",
-          "sku": "195166329642"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Arcane Heist",
-          "image": "assets/d14baf9b0955cee55e19.webp"
-        },
-        {
-          "name": "Contentious Plan",
-          "image": "assets/2e5b7bf2b29290c0753d.webp"
-        },
-        {
-          "name": "Curiosity",
-          "image": "assets/e99e04e56cd88c9c4fe1.webp"
-        },
-        {
-          "name": "Solve the Equation",
-          "image": "assets/deb46658b2d5bcf0ca8d.webp"
-        },
-        {
-          "name": "Windfall",
-          "image": "assets/3db4eedf5fa8f5e40c96.webp"
-        }
-      ]
-    },
-    {
       "id": "thehobbitovertheedgeofthewild",
       "title": "The Hobbit: Over the Edge of the Wild",
       "category": "The Hobbit",
@@ -4169,7 +3888,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 6,
+          "qty": 7,
           "catalogName": "Over The Edge Of The World",
           "sku": "195166328133"
         },
@@ -4177,7 +3896,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 12,
+          "qty": 5,
           "catalogName": "Over The Edge Of The World Foil",
           "sku": "195166328102"
         }
@@ -4227,7 +3946,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 3,
+          "qty": 2,
           "catalogName": "Smaug's Spoils",
           "sku": "195166328072"
         }
@@ -4284,7 +4003,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 4,
+          "qty": 3,
           "catalogName": "Secret Lair The Last Of Us Part 1",
           "sku": "195166308678"
         }
@@ -4340,7 +4059,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 6,
+          "qty": 5,
           "catalogName": "Secret Lair Last Of Us Part 2",
           "sku": "195166308715"
         }
