@@ -2046,64 +2046,6 @@
       ]
     },
     {
-      "id": "jawsterrorofamityisland",
-      "title": "Jaws: Terror of Amity Island",
-      "category": "Art & more",
-      "cards": [
-        "Jaws, Relentless Predator",
-        "Descent into Avernus",
-        "Reckless Endeavor",
-        "Sneak Attack",
-        "Abrade",
-        "Blood Token"
-      ],
-      "source": "https://secretlair.wizards.com/us/en/product/1247711/secret-lair-x-jaws-terror-of-amity-island",
-      "aliases": {
-        "Descent into Avernus": "Panic on Amity Island",
-        "Abrade": "You’re Gonna Need a Bigger Boat"
-      },
-      "notes": "",
-      "image": "assets/86545d21a6441dfa76b5.webp",
-      "variants": [
-        {
-          "label": "Standard · confirm finish",
-          "kind": "standard",
-          "price": 55.0,
-          "qty": 1,
-          "catalogName": "Secret LairJawsd Terror Of Amity Island",
-          "sku": "195166311142"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Jaws, Relentless Predator",
-          "image": "assets/84e3ef873711cda9636d.webp"
-        },
-        {
-          "name": "Descent into Avernus",
-          "image": "assets/8d8d15e05c04a53ae143.webp",
-          "displayName": "Panic on Amity Island"
-        },
-        {
-          "name": "Reckless Endeavor",
-          "image": "assets/4bb118b10e9134034aa8.webp"
-        },
-        {
-          "name": "Sneak Attack",
-          "image": "assets/5f1f85159a4a080fff55.webp"
-        },
-        {
-          "name": "Abrade",
-          "image": "assets/a80449c2fe0139a3e6df.webp",
-          "displayName": "You’re Gonna Need a Bigger Boat"
-        },
-        {
-          "name": "Blood Token",
-          "image": "assets/6e44392ac802881f6f40.webp"
-        }
-      ]
-    },
-    {
       "id": "kexpyouarenotalone",
       "title": "KEXP: You Are Not Alone",
       "category": "Art & more",
