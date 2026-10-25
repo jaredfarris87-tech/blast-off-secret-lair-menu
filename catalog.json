@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "drops": [
     {
       "id": "avatarthelastairbenderalottolearn",
@@ -473,14 +473,6 @@
       "image": "",
       "variants": [
         {
-          "label": "Foil",
-          "kind": "foil",
-          "price": 55.0,
-          "qty": 1,
-          "catalogName": "Cosmic Chill Foil",
-          "sku": "195166331485"
-        },
-        {
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 45.0,
@@ -694,64 +686,6 @@
         {
           "name": "Soulherder",
           "image": "assets/8eaf5e49241b2f1ba99a.webp"
-        }
-      ]
-    },
-    {
-      "id": "dungeonsdragonsanexhibitionofadventure",
-      "title": "Dungeons & Dragons — An Exhibition of Adventure",
-      "category": "Dungeons & Dragons",
-      "cards": [
-        "Fell the Mighty",
-        "Faithless Looting",
-        "Goldspan Dragon",
-        "Reality Shift",
-        "Monster Manual",
-        "Ponder",
-        "Acererak the Archlich"
-      ],
-      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-x-dungeons-and-dragons-50th-anniversary-superdrop",
-      "aliases": {},
-      "notes": "",
-      "image": "",
-      "variants": [
-        {
-          "label": "Rainbow foil",
-          "kind": "foil",
-          "price": 80.0,
-          "qty": 1,
-          "catalogName": "Secret Lair X D&D: An Exhibition of Adventure Rainbow Foil",
-          "sku": "195166283265"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Fell the Mighty",
-          "image": "assets/bc037e0b0cc75aea8f2d.webp"
-        },
-        {
-          "name": "Faithless Looting",
-          "image": "assets/6ddd0b07874a9b0b35a6.webp"
-        },
-        {
-          "name": "Goldspan Dragon",
-          "image": "assets/3349c1dea18b08453b93.webp"
-        },
-        {
-          "name": "Reality Shift",
-          "image": "assets/9d189abcafff1e4d81ba.webp"
-        },
-        {
-          "name": "Monster Manual",
-          "image": "assets/2c72a28cad7f2d9719bc.webp"
-        },
-        {
-          "name": "Ponder",
-          "image": "assets/7eac4becfae523b3e861.webp"
-        },
-        {
-          "name": "Acererak the Archlich",
-          "image": "assets/5aaa7123ec95df312249.webp"
         }
       ]
     },
@@ -2759,7 +2693,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 6,
+          "qty": 4,
           "catalogName": "She Ra",
           "sku": "195166344157"
         },
@@ -2767,7 +2701,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 3,
+          "qty": 2,
           "catalogName": "She Ra Foil",
           "sku": "195166344126"
         }
@@ -3768,7 +3702,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 70.0,
-          "qty": 5,
+          "qty": 4,
           "catalogName": "Second Breakfast & Beyond",
           "sku": "195166328195"
         },
@@ -3946,7 +3880,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 2,
+          "qty": 1,
           "catalogName": "Smaug's Spoils",
           "sku": "195166328072"
         }

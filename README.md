@@ -6,13 +6,13 @@ A mobile-friendly, browse-only Secret Lair inventory menu for customers scanning
 
 ## What is included
 
-- 76 Secret Lair drops with 129 in-stock inventory variants.
+- 75 Secret Lair drops with 127 in-stock inventory variants.
 - Prices, quantities, finishes, collection filters, and search by drop or card name.
-- 406 card/token gallery entries with locally hosted artwork and available reverse faces.
+- 399 card/token gallery entries with locally hosted artwork and available reverse faces.
 - Blast Off Gaming branding, logo, arcade font, and links to the main website.
 - No checkout, customer accounts, payment processing, analytics, or backend.
 
-Inventory is a snapshot of the October 23, 2026 catalog export. It is **not synchronized with Square or Wix**. Confirm stock and pricing before launch.
+Inventory is a snapshot of the October 25, 2026 catalog export. It is **not synchronized with Square or Wix**. Confirm stock and pricing before launch.
 
 ## Files
 
