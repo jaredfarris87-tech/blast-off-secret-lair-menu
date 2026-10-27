@@ -1,6 +1,6 @@
-# Blast Off Gaming — Secret Lair Menu
+# Blast Off Gaming — Secret Lair & Pre-owned Precon Menus
 
-A mobile-friendly, browse-only Secret Lair inventory menu for customers scanning an in-store QR code.
+Mobile-friendly, browse-only Secret Lair and pre-owned Commander precon menus for customers scanning in-store QR codes.
 
 **Preview:** https://blast-off-gaming-secret-lair.jaredfarris33.chatgpt.site
 
@@ -91,3 +91,28 @@ The repository is intended for private collaboration with Blast Off Gaming and i
 Official contents-source links are retained per drop in `catalog.json`. Two drops, Back in My Day! and Inked, initially used secondary contents sources; their gallery images were subsequently sourced from official product galleries.
 
 This handoff intentionally excludes authentication tokens, deployment credentials, the original Square catalog's internal cost fields, and Sites-specific account configuration.
+
+## Pre-owned Commander precons (October 27, 2026)
+
+Open `precons/` for the new branded menu. It contains the 22 different precons identified in the store photos. The owner confirmed that all copies match their complete original decklists and requested that prices remain hidden. No exact physical stock counts are inferred from overlapping photos.
+
+- Click a deck picture to see its 100-card list, grouped by card type.
+- Click a card name to view its picture inside the site. Previous/next buttons and keyboard arrows browse cards.
+- Search across decks, commanders, and card names, or filter by release. Each deck also has its own card search.
+- Deep links use `precons/#deck=<stable-id>`. The QR for each deck opens this detail view directly.
+- `precons/decks.json` holds deck metadata, commanders, main deck cards, and optional original-product extras. Quantities include all 100 playable cards, including commanders.
+- Planes and schemes appear separately and do not count toward the 100-card deck. Their inclusion in a pre-owned copy must be confirmed in store. Tokens and accessories are not enumerated.
+- Upgrades Unleashed retains the original two Mossfire Valleys and the official printing-error note.
+- All 22 names/quantity lists were checked against Wizards' published lists. Source links are retained per deck; structured data came from MTGJSON.
+- Cover images are local in `precons/images/`: 16 original packshots and 6 commander-card reference images. Packaging shown is labeled as reference imagery.
+- Card pictures load directly from Scryfall's CDN inside the viewer; customers do not navigate away. These require network access to `cards.scryfall.io`. Full-size card scans are not bundled locally in this precon addition.
+
+The Secret Lair snapshot is still October 25, 2026. The precon selection is based on October 27, 2026 photos. Neither is an automatic inventory feed.
+
+### Precon QR codes and Wix URLs
+
+The live precon URL is https://blast-off-gaming-secret-lair.jaredfarris33.chatgpt.site/precons/ . The supplied per-deck QR labels point directly to that URL with the deck fragment. Adding `precons/` to your own host works without a build step; keep its parent `assets/brand/` directory with it.
+
+Before moving QR destinations to a business-controlled domain or a native Wix page, decide on permanent deck URLs. Regenerate the codes or preserve redirects at the existing URLs; editing GitHub alone does not change previously printed QR codes. An embedded Wix page may require explicit handling to pass a deck ID into the iframe.
+
+To remove a sold deck from browsing while preserving its QR reference, a future stock-management feature should separate availability from the deck library. For this initial selection, removing a deck from `decks.json` also removes its detail page.

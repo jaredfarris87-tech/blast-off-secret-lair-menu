@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#6450a5">
+  <meta name="description" content="Explore Blast Off Gaming's pre-owned Commander precons. Open a deck, browse its complete card list, and tap any card to see the artwork.">
+  <title>Pre-owned Precons · Blast Off Gaming</title>
+  <link rel="stylesheet" href="precons.css">
+  <script src="precons.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to decks</a>
+  <header class="site-header">
+    <a class="brand" href="https://www.blastoffgaming.com/start" aria-label="Blast Off Gaming home"><img src="../assets/brand/logo.png" alt="Blast Off Gaming"></a>
+    <nav aria-label="Main navigation"><a href="https://www.blastoffgaming.com/start">Start</a><a href="../#collection">Secret Lair</a><a href="#collection" aria-current="page">Pre-owned precons</a><a href="https://blastoffgaming.tcgplayerpro.com/">Shop our singles</a><a href="https://www.blastoffgaming.com/visit">Visit our store</a></nav>
+  </header>
+  <main id="main">
+    <div id="browse-view">
+      <section class="hero">
+        <p class="eyebrow">BLAST OFF GAMING / COMMANDER</p>
+        <h1>A new home.<br><em>A new game.</em></h1>
+        <p>Pre-owned precons. Complete original decklists.<br>Find your next deck, then explore every card inside.</p>
+        <a class="primary-link" href="#collection">Find your next deck <span aria-hidden="true">↓</span></a>
+      </section>
+      <section id="collection" class="collection">
+        <div class="section-heading"><div><p class="eyebrow">READY FOR ANOTHER ROUND</p><h2>Pre-owned precons</h2></div><p class="snapshot">In-store selection · October 27, 2026<br><span>Ask our team for current availability and pricing.</span></p></div>
+        <div class="filters">
+          <label class="search-box"><span aria-hidden="true">⌕</span><input id="deck-search" type="search" placeholder="Search decks, commanders, or cards…" aria-label="Search decks, commanders, or cards"></label>
+          <label class="select-box"><span class="sr-only">Filter by release</span><select id="series-filter"><option value="all">All releases</option></select></label>
+        </div>
+        <div class="results"><p id="deck-count" role="status">Loading the decks…</p><span>PRE-OWNED · COMPLETE</span></div>
+        <div id="deck-grid" class="deck-grid"></div>
+        <div id="empty" class="empty" hidden><h3>No decks found</h3><p>Try another deck, commander, or card name.</p><button id="clear-filters" class="soft-button">Clear filters</button></div>
+        <div id="load-error" class="empty" hidden><h3>The decks couldn’t load</h3><p>Please refresh the page or ask our team at the counter.</p><button id="retry" class="soft-button">Try again</button></div>
+      </section>
+    </div>
+    <section id="deck-view" class="deck-view" hidden aria-labelledby="deck-title"></section>
+    <section id="not-found" class="empty" hidden><h1>Deck not found</h1><p>This deck link may have changed. Browse the current collection below.</p><a class="primary-link" href="#collection">View all decks</a></section>
+    <section class="counter"><span class="counter-star" aria-hidden="true">✳</span><div><h2>Ready to shuffle up?</h2><p>Ask our team about the deck you have your eye on.</p></div><a href="https://www.blastoffgaming.com/visit">Visit Blast Off ↗</a></section>
+  </main>
+  <footer><div><a href="https://www.blastoffgaming.com/start"><img src="../assets/brand/logo.png" alt="Blast Off Gaming"></a><p class="tagline">CONNECT. COLLECT. COMPETE.</p><a href="https://www.blastoffgaming.com/visit">7513 Outer Loop · Louisville, KY</a></div><p>Pre-owned decks with their original card lists, verified by Blast Off Gaming.<br>Inventory is a snapshot, not a live stock feed. Card images are for identification;<br>condition, finish, packaging, and accessories may vary. Ask our team for details.<br>Magic: The Gathering and card artwork © Wizards of the Coast.</p></footer>
+  <dialog id="card-viewer" aria-labelledby="card-name">
+    <button id="close-card" class="close-button" aria-label="Close card image">✕</button>
+    <div class="image-stage"><img id="card-image" alt=""><p id="image-error" hidden>This image couldn’t load.<br><button id="retry-image" class="soft-button">Try again</button></p></div>
+    <div class="viewer-controls"><button id="previous-card" aria-label="Previous card">←</button><div><h2 id="card-name"></h2><p id="card-position"></p></div><button id="next-card" aria-label="Next card">→</button></div>
+    <button id="flip-card" class="soft-button" hidden>View reverse side</button>
+  </dialog>
+</body>
+</html>
