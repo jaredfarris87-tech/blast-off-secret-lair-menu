@@ -6,13 +6,13 @@ Mobile-friendly, browse-only Secret Lair and pre-owned Commander precon menus fo
 
 ## What is included
 
-- 74 Secret Lair drops with 126 in-stock inventory variants.
+- 77 listings (76 Secret Lair drops plus Sliver Swarm) with 130 in-stock inventory variants.
 - Prices, quantities, finishes, collection filters, and search by drop or card name.
-- 393 card/token gallery entries with locally hosted artwork and available reverse faces.
+- 501 card/token gallery entries with locally hosted artwork and available reverse faces.
 - Blast Off Gaming branding, logo, arcade font, and links to the main website.
 - No checkout, customer accounts, payment processing, analytics, or backend.
 
-Inventory is a snapshot of the October 25, 2026 catalog export. It is **not synchronized with Square or Wix**. Confirm stock and pricing before launch.
+Inventory is a snapshot of the November 12, 2026 catalog export. It is **not synchronized with Square or Wix**. Confirm stock and pricing before launch.
 
 ## Files
 
@@ -59,12 +59,13 @@ This repository does not automatically deploy to Wix or update the existing Site
 - `id`: stable identifier used in shareable `#drop=...` URLs.
 - `title`, `category`, `cards`, `aliases`, `notes`, and `source`.
 - `image`: optional official cover image. When blank, the page displays a preview composed of the first three card images.
-- `cardImages`: gallery entries containing `name`, `image`, and optional `backImage`.
+- `cardImages`: gallery entries containing `name`, `image`, optional `backImage`, and optional `qty` for repeated cards.
+- `productType`: optional `commander` for the store-requested Sliver Swarm listing.
 - `variants`: entries containing `label`, `kind`, `price`, `qty`, `catalogName`, and `sku`.
 
 Prices are numeric USD values. `kind` is `foil`, `nonfoil`, or `standard` (finish unspecified).
 
-**Important:** The current interface assumes every listed variant is in stock. When an item sells out, remove that variant from the published catalog; do not merely set its quantity to zero. Remove a drop if no variants remain. A future inventory integration should implement automatic stock filtering.
+Inventory imports remove sold-out variants and remove a listing when no variants remain. The interface also filters out quantities of zero as a safeguard. The catalog is fetched without browser caching so a new inventory snapshot appears on refresh.
 
 When updating the snapshot, update the `updated` field in `catalog.json` and the visible inventory date text in `index.html` and `app.js`.
 
@@ -107,7 +108,7 @@ Open `precons/` for the new branded menu. It contains the 22 different precons i
 - Cover images are local in `precons/images/`: 16 original packshots and 6 commander-card reference images. Packaging shown is labeled as reference imagery.
 - Card pictures load directly from Scryfall's CDN inside the viewer; customers do not navigate away. These require network access to `cards.scryfall.io`. Full-size card scans are not bundled locally in this precon addition.
 
-The Secret Lair snapshot is still October 25, 2026. The precon selection is based on October 27, 2026 photos. Neither is an automatic inventory feed.
+The Secret Lair snapshot is still November 12, 2026. The precon selection is based on October 27, 2026 photos. Neither is an automatic inventory feed.
 
 ### Precon QR codes and Wix URLs
 

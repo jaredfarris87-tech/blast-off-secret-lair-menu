@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-11-12",
   "drops": [
     {
       "id": "avatarthelastairbenderalottolearn",
@@ -409,54 +409,6 @@
       ]
     },
     {
-      "id": "catsofchaos",
-      "title": "Cats of Chaos",
-      "category": "Art & more",
-      "cards": [
-        "Fell the Mighty",
-        "Aggravated Assault",
-        "Chaos Warp",
-        "Utopia Sprawl",
-        "Aura Shards"
-      ],
-      "source": "https://secretlair.wizards.com/us/product/1252576/cats-of-chaos",
-      "aliases": {},
-      "notes": "",
-      "image": "assets/d2006d6a68af55d62c85.webp",
-      "variants": [
-        {
-          "label": "Standard · confirm finish",
-          "kind": "standard",
-          "price": 55.0,
-          "qty": 1,
-          "catalogName": "Cats Of Chaos",
-          "sku": "195166340647"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Fell the Mighty",
-          "image": "assets/2b289dc128a436abdd3f.webp"
-        },
-        {
-          "name": "Aggravated Assault",
-          "image": "assets/e10456370e7c825b62c7.webp"
-        },
-        {
-          "name": "Chaos Warp",
-          "image": "assets/f6fa0ff84ab6a581985a.webp"
-        },
-        {
-          "name": "Utopia Sprawl",
-          "image": "assets/e408df2d5b740393e5b0.webp"
-        },
-        {
-          "name": "Aura Shards",
-          "image": "assets/4edee5a9c876eae146ef.webp"
-        }
-      ]
-    },
-    {
       "id": "cosmicchillbyrobineisenberg",
       "title": "Cosmic Chill by Robin Eisenberg",
       "category": "Art & more",
@@ -476,7 +428,7 @@
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 45.0,
-          "qty": 2,
+          "qty": 1,
           "catalogName": "Cosmic Chill NF",
           "sku": "195166331515"
         }
@@ -686,54 +638,6 @@
         {
           "name": "Soulherder",
           "image": "assets/8eaf5e49241b2f1ba99a.webp"
-        }
-      ]
-    },
-    {
-      "id": "dungeonsdragonsastarionsthirst",
-      "title": "Dungeons & Dragons — Astarion's Thirst",
-      "category": "Dungeons & Dragons",
-      "cards": [
-        "Astarion, the Decadent",
-        "Exquisite Blood",
-        "Sanguine Bond",
-        "Anguished Unmaking",
-        "Mortify"
-      ],
-      "source": "https://magic.wizards.com/en/news/announcements/secret-lair-x-dungeons-and-dragons-50th-anniversary-superdrop",
-      "aliases": {},
-      "notes": "",
-      "image": "",
-      "variants": [
-        {
-          "label": "Rainbow foil",
-          "kind": "foil",
-          "price": 175.0,
-          "qty": 1,
-          "catalogName": "Secret Lair X D&D: Astarion's Thirst Rainbow Foil",
-          "sku": "195166283449"
-        }
-      ],
-      "cardImages": [
-        {
-          "name": "Astarion, the Decadent",
-          "image": "assets/6a0c534384a54cabc815.webp"
-        },
-        {
-          "name": "Exquisite Blood",
-          "image": "assets/f5908968f0bdbe192f44.webp"
-        },
-        {
-          "name": "Sanguine Bond",
-          "image": "assets/c127448c377e79bc80da.webp"
-        },
-        {
-          "name": "Anguished Unmaking",
-          "image": "assets/934527e0945bfba9a11c.webp"
-        },
-        {
-          "name": "Mortify",
-          "image": "assets/9dc099ae32757878cab5.webp"
         }
       ]
     },
@@ -1617,6 +1521,54 @@
       ]
     },
     {
+      "id": "flowerpower",
+      "title": "Flower Power",
+      "category": "Art & more",
+      "cards": [
+        "Plains",
+        "Island",
+        "Swamp",
+        "Mountain",
+        "Forest"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1246579/flower-power-foil-edition",
+      "aliases": {},
+      "notes": "",
+      "image": "assets/c4384117b3548b66e7cb.png",
+      "cardImages": [
+        {
+          "name": "Plains",
+          "image": "assets/418a84917b277d59fcee.png"
+        },
+        {
+          "name": "Island",
+          "image": "assets/065c0cacb5bc5332391e.png"
+        },
+        {
+          "name": "Swamp",
+          "image": "assets/125608eb4f354145466f.png"
+        },
+        {
+          "name": "Mountain",
+          "image": "assets/e91598f4352461de722b.png"
+        },
+        {
+          "name": "Forest",
+          "image": "assets/bda91552c5914fb98cbb.png"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "195166312781",
+          "label": "Rainbow foil",
+          "kind": "foil",
+          "price": 100.0,
+          "qty": 1,
+          "catalogName": "Flower Power - Rainbow Foil"
+        }
+      ]
+    },
+    {
       "id": "furbythegathering",
       "title": "Furby — The Gathering",
       "category": "Art & more",
@@ -2177,7 +2129,7 @@
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 45.0,
-          "qty": 5,
+          "qty": 4,
           "catalogName": "Dan Hipp NF",
           "sku": "195166327426"
         }
@@ -2343,7 +2295,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 55.0,
-          "qty": 5,
+          "qty": 4,
           "catalogName": "True Believers In Love Foil",
           "sku": "195166327211"
         },
@@ -2525,7 +2477,7 @@
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 45.0,
-          "qty": 5,
+          "qty": 4,
           "catalogName": "Greyskull",
           "sku": "195166343952"
         }
@@ -2939,6 +2891,81 @@
       ]
     },
     {
+      "id": "nuestramagia",
+      "title": "Nuestra Magia",
+      "category": "Art & more",
+      "cards": [
+        "Tireless Provisioner",
+        "Sylvan Library",
+        "Ancient Greenwarden",
+        "Expressive Iteration",
+        "Xenagos, God of Revels",
+        "Lightning Greaves",
+        "Sol Ring",
+        "Food token",
+        "Treasure token"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1245720/nuestra-magia-en",
+      "aliases": {
+        "Tireless Provisioner": "La abuela, siempre generosa",
+        "Sylvan Library": "La abundancia de Yucahú",
+        "Ancient Greenwarden": "Pastor da Selva",
+        "Expressive Iteration": "La danza del pueblo",
+        "Xenagos, God of Revels": "La Madre Tierra",
+        "Lightning Greaves": "Chancla relámpago"
+      },
+      "notes": "Gallery shows the English-rules-text edition. Confirm the available language and finish with our team.",
+      "image": "assets/943d102c6be4a19f19af.png",
+      "cardImages": [
+        {
+          "name": "Tireless Provisioner",
+          "image": "assets/72d2327776426a1c39b9.png"
+        },
+        {
+          "name": "Sylvan Library",
+          "image": "assets/06a865e5f10ef8c82c83.png"
+        },
+        {
+          "name": "Ancient Greenwarden",
+          "image": "assets/9f858433527319389a35.png"
+        },
+        {
+          "name": "Expressive Iteration",
+          "image": "assets/5ed33c91c01c008ed3d1.png"
+        },
+        {
+          "name": "Xenagos, God of Revels",
+          "image": "assets/b44a0b33fca87d90f3ae.png"
+        },
+        {
+          "name": "Lightning Greaves",
+          "image": "assets/ec6f9321b06402e27e27.png"
+        },
+        {
+          "name": "Sol Ring",
+          "image": "assets/762413f42ac1b4190d01.png"
+        },
+        {
+          "name": "Food token",
+          "image": "assets/b519596ff8ab8ce7d0d8.png"
+        },
+        {
+          "name": "Treasure token",
+          "image": "assets/e1cb5e362d0b645eb129.png"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "195166304557",
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 70.0,
+          "qty": 1,
+          "catalogName": "Nalac Nuestra Magia"
+        }
+      ]
+    },
+    {
       "id": "omensofchaos",
       "title": "Omens of Chaos",
       "category": "Art & more",
@@ -3208,6 +3235,594 @@
       ]
     },
     {
+      "id": "sliverswarm",
+      "title": "Sliver Swarm",
+      "category": "Commander decks",
+      "productType": "commander",
+      "cards": [
+        "Sliver Gravemother",
+        "Rukarumel, Biologist",
+        "Regal Sliver",
+        "Taunting Sliver",
+        "Titan of Littjara",
+        "Lazotep Sliver",
+        "Capricious Sliver",
+        "Descendants' Fury",
+        "For the Ancestors",
+        "Hatchery Sliver",
+        "Bonescythe Sliver",
+        "Cleansing Nova",
+        "Harsh Mercy",
+        "Galerider Sliver",
+        "Synapse Sliver",
+        "Crippling Fear",
+        "Syphon Sliver",
+        "Spiteful Sliver",
+        "Brood Sliver",
+        "Megantic Sliver",
+        "Realmwalker",
+        "Cloudshredder Sliver",
+        "Decimate",
+        "Sliver Hivelord",
+        "Icon of Ancestry",
+        "Vanquisher's Banner",
+        "Canopy Vista",
+        "Cinder Glade",
+        "Exotic Orchard",
+        "Irrigated Farmland",
+        "Prairie Stream",
+        "Scattered Groves",
+        "Sheltered Thicket",
+        "Smoldering Marsh",
+        "Sunken Hollow",
+        "Arcane Signet",
+        "Fellwar Stone",
+        "Sol Ring",
+        "Ash Barrens",
+        "Command Tower",
+        "Path of Ancestry",
+        "Constricting Sliver",
+        "Sentinel Sliver",
+        "Sinew Sliver",
+        "Diffusion Sliver",
+        "Distant Melody",
+        "Shifting Sliver",
+        "Windfall",
+        "Winged Sliver",
+        "Clot Sliver",
+        "Crypt Sliver",
+        "Blade Sliver",
+        "Blur Sliver",
+        "Bonesplitter Sliver",
+        "Cleaving Sliver",
+        "Hollowhead Sliver",
+        "Striking Sliver",
+        "Two-Headed Sliver",
+        "Cultivate",
+        "Farseek",
+        "Gemhide Sliver",
+        "Manaweft Sliver",
+        "Might Sliver",
+        "Nature's Lore",
+        "Quick Sliver",
+        "Three Visits",
+        "Venom Sliver",
+        "Crystalline Sliver",
+        "Firewake Sliver",
+        "Harmonic Sliver",
+        "Hibernation Sliver",
+        "Lavabelly Sliver",
+        "Necrotic Sliver",
+        "Herald's Horn",
+        "Pillar of Origins",
+        "Flood Plain",
+        "Frontier Bivouac",
+        "Grasslands",
+        "Jungle Shrine",
+        "Mountain Valley",
+        "Mystic Monastery",
+        "Nomad Outpost",
+        "Opulent Palace",
+        "Rocky Tar Pit",
+        "Sandsteppe Citadel",
+        "Savage Lands",
+        "Seaside Citadel",
+        "Secluded Courtyard",
+        "Unclaimed Territory",
+        "Plains",
+        "Island",
+        "Swamp",
+        "Mountain",
+        "Forest"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/commander-masters-commander-decklists",
+      "aliases": {},
+      "notes": "Commander Masters preconstructed Commander deck, included in this menu by Blast Off Gaming. Original 100-card decklist; basic land quantities are shown. Tokens and accessories are not listed.",
+      "image": "assets/b2a36428921ded030146.png",
+      "cardImages": [
+        {
+          "name": "Sliver Gravemother",
+          "qty": 1,
+          "image": "assets/60ea7bc3496090857452.jpg"
+        },
+        {
+          "name": "Rukarumel, Biologist",
+          "qty": 1,
+          "image": "assets/990818213c618b7b8a15.jpg"
+        },
+        {
+          "name": "Regal Sliver",
+          "qty": 1,
+          "image": "assets/67672d092e83079aa9ab.jpg"
+        },
+        {
+          "name": "Taunting Sliver",
+          "qty": 1,
+          "image": "assets/aac2d02c985095552c2e.jpg"
+        },
+        {
+          "name": "Titan of Littjara",
+          "qty": 1,
+          "image": "assets/0e62310064f0bad6b057.jpg"
+        },
+        {
+          "name": "Lazotep Sliver",
+          "qty": 1,
+          "image": "assets/9fe0c9bcd1d51154a9d5.jpg"
+        },
+        {
+          "name": "Capricious Sliver",
+          "qty": 1,
+          "image": "assets/84f3fe6f58fb653180d7.jpg"
+        },
+        {
+          "name": "Descendants' Fury",
+          "qty": 1,
+          "image": "assets/e2a07ee980c0746dcb0f.jpg"
+        },
+        {
+          "name": "For the Ancestors",
+          "qty": 1,
+          "image": "assets/c2ba1d2e0cb1acaf8b53.jpg"
+        },
+        {
+          "name": "Hatchery Sliver",
+          "qty": 1,
+          "image": "assets/f6f13cd3df2912100066.jpg"
+        },
+        {
+          "name": "Bonescythe Sliver",
+          "qty": 1,
+          "image": "assets/e0734011bf0600944e54.jpg"
+        },
+        {
+          "name": "Cleansing Nova",
+          "qty": 1,
+          "image": "assets/c4d5de74a52dda5c3f39.jpg"
+        },
+        {
+          "name": "Harsh Mercy",
+          "qty": 1,
+          "image": "assets/d85350250d02a3937c20.jpg"
+        },
+        {
+          "name": "Galerider Sliver",
+          "qty": 1,
+          "image": "assets/f2984557ac828aad5466.jpg"
+        },
+        {
+          "name": "Synapse Sliver",
+          "qty": 1,
+          "image": "assets/7a635f7c1b86cf00a0ff.jpg"
+        },
+        {
+          "name": "Crippling Fear",
+          "qty": 1,
+          "image": "assets/ca06f24f352bc99906e9.jpg"
+        },
+        {
+          "name": "Syphon Sliver",
+          "qty": 1,
+          "image": "assets/cbda2cfac67bd4b525b5.jpg"
+        },
+        {
+          "name": "Spiteful Sliver",
+          "qty": 1,
+          "image": "assets/dd06e74b800133ca424c.jpg"
+        },
+        {
+          "name": "Brood Sliver",
+          "qty": 1,
+          "image": "assets/01728125d8ca0e200e0c.jpg"
+        },
+        {
+          "name": "Megantic Sliver",
+          "qty": 1,
+          "image": "assets/65c2fe41f377106f7190.jpg"
+        },
+        {
+          "name": "Realmwalker",
+          "qty": 1,
+          "image": "assets/8d47e28c4b434af65833.jpg"
+        },
+        {
+          "name": "Cloudshredder Sliver",
+          "qty": 1,
+          "image": "assets/341a20c4a2e2b9eaf0e5.jpg"
+        },
+        {
+          "name": "Decimate",
+          "qty": 1,
+          "image": "assets/f8b9472e819b5f566f80.jpg"
+        },
+        {
+          "name": "Sliver Hivelord",
+          "qty": 1,
+          "image": "assets/e7c53b54a60a5ee8205e.jpg"
+        },
+        {
+          "name": "Icon of Ancestry",
+          "qty": 1,
+          "image": "assets/cc48481fac01242e6c48.jpg"
+        },
+        {
+          "name": "Vanquisher's Banner",
+          "qty": 1,
+          "image": "assets/31d654b920bb1375cc39.jpg"
+        },
+        {
+          "name": "Canopy Vista",
+          "qty": 1,
+          "image": "assets/163a776e3c76a568f0ea.jpg"
+        },
+        {
+          "name": "Cinder Glade",
+          "qty": 1,
+          "image": "assets/69f2e7e794230d7817b1.jpg"
+        },
+        {
+          "name": "Exotic Orchard",
+          "qty": 1,
+          "image": "assets/56413bfe6ebb7a51cde8.jpg"
+        },
+        {
+          "name": "Irrigated Farmland",
+          "qty": 1,
+          "image": "assets/dd45f999545ec63079cf.jpg"
+        },
+        {
+          "name": "Prairie Stream",
+          "qty": 1,
+          "image": "assets/fc3313dcc5e68f62e84e.jpg"
+        },
+        {
+          "name": "Scattered Groves",
+          "qty": 1,
+          "image": "assets/4f3951e207afe4db8899.jpg"
+        },
+        {
+          "name": "Sheltered Thicket",
+          "qty": 1,
+          "image": "assets/42aa9e669a3e0208666a.jpg"
+        },
+        {
+          "name": "Smoldering Marsh",
+          "qty": 1,
+          "image": "assets/a201382e9441c33a0e10.jpg"
+        },
+        {
+          "name": "Sunken Hollow",
+          "qty": 1,
+          "image": "assets/15d785f96339ea3815ca.jpg"
+        },
+        {
+          "name": "Arcane Signet",
+          "qty": 1,
+          "image": "assets/d48e5f82eeda32bea168.jpg"
+        },
+        {
+          "name": "Fellwar Stone",
+          "qty": 1,
+          "image": "assets/38d0ddb4912aea209097.jpg"
+        },
+        {
+          "name": "Sol Ring",
+          "qty": 1,
+          "image": "assets/0a1953e11b4ea1826def.jpg"
+        },
+        {
+          "name": "Ash Barrens",
+          "qty": 1,
+          "image": "assets/5e2a725c555d5dba934b.jpg"
+        },
+        {
+          "name": "Command Tower",
+          "qty": 1,
+          "image": "assets/d3e82e7694d6f49fabaa.jpg"
+        },
+        {
+          "name": "Path of Ancestry",
+          "qty": 1,
+          "image": "assets/2ca4a3f3ae7069210fe9.jpg"
+        },
+        {
+          "name": "Constricting Sliver",
+          "qty": 1,
+          "image": "assets/730fa6edad3f8be42985.jpg"
+        },
+        {
+          "name": "Sentinel Sliver",
+          "qty": 1,
+          "image": "assets/26738c01cbe9dcb5bf50.jpg"
+        },
+        {
+          "name": "Sinew Sliver",
+          "qty": 1,
+          "image": "assets/e045767c2644084c615f.jpg"
+        },
+        {
+          "name": "Diffusion Sliver",
+          "qty": 1,
+          "image": "assets/7f77a4995cf9b7759a4e.jpg"
+        },
+        {
+          "name": "Distant Melody",
+          "qty": 1,
+          "image": "assets/f2d58721efc4ae4e5c1f.jpg"
+        },
+        {
+          "name": "Shifting Sliver",
+          "qty": 1,
+          "image": "assets/e388c98d94e47d73f7ea.jpg"
+        },
+        {
+          "name": "Windfall",
+          "qty": 1,
+          "image": "assets/ea5b807a95f6798e2bb4.jpg"
+        },
+        {
+          "name": "Winged Sliver",
+          "qty": 1,
+          "image": "assets/e924d87a617b55eb9d93.jpg"
+        },
+        {
+          "name": "Clot Sliver",
+          "qty": 1,
+          "image": "assets/c1cd75a1f232d4c2da07.jpg"
+        },
+        {
+          "name": "Crypt Sliver",
+          "qty": 1,
+          "image": "assets/9be274f1d9d8fdcdea3e.jpg"
+        },
+        {
+          "name": "Blade Sliver",
+          "qty": 1,
+          "image": "assets/4cfa9d83df357aa5571b.jpg"
+        },
+        {
+          "name": "Blur Sliver",
+          "qty": 1,
+          "image": "assets/eea5ad6ca63dd727fd25.jpg"
+        },
+        {
+          "name": "Bonesplitter Sliver",
+          "qty": 1,
+          "image": "assets/76f152d4c02f3bb9cce4.jpg"
+        },
+        {
+          "name": "Cleaving Sliver",
+          "qty": 1,
+          "image": "assets/acfbfe0c5e1f7cfd1c28.jpg"
+        },
+        {
+          "name": "Hollowhead Sliver",
+          "qty": 1,
+          "image": "assets/af5cf2d811325431e0e3.jpg"
+        },
+        {
+          "name": "Striking Sliver",
+          "qty": 1,
+          "image": "assets/45fa0200a0652b52e6de.jpg"
+        },
+        {
+          "name": "Two-Headed Sliver",
+          "qty": 1,
+          "image": "assets/7a038a8877f288a600b7.jpg"
+        },
+        {
+          "name": "Cultivate",
+          "qty": 1,
+          "image": "assets/804321c9dbb30b14dc2b.jpg"
+        },
+        {
+          "name": "Farseek",
+          "qty": 1,
+          "image": "assets/a95889f0fb0c0d39adf1.jpg"
+        },
+        {
+          "name": "Gemhide Sliver",
+          "qty": 1,
+          "image": "assets/e22a70832fbb3d31db46.jpg"
+        },
+        {
+          "name": "Manaweft Sliver",
+          "qty": 1,
+          "image": "assets/273f568d9c77039f6e54.jpg"
+        },
+        {
+          "name": "Might Sliver",
+          "qty": 1,
+          "image": "assets/de81b85b01f76eaae337.jpg"
+        },
+        {
+          "name": "Nature's Lore",
+          "qty": 1,
+          "image": "assets/633e1a42698c521a9428.jpg"
+        },
+        {
+          "name": "Quick Sliver",
+          "qty": 1,
+          "image": "assets/321f75d4948a7b298b28.jpg"
+        },
+        {
+          "name": "Three Visits",
+          "qty": 1,
+          "image": "assets/0812dad9c11dda343753.jpg"
+        },
+        {
+          "name": "Venom Sliver",
+          "qty": 1,
+          "image": "assets/1a7226220617cd2b8929.jpg"
+        },
+        {
+          "name": "Crystalline Sliver",
+          "qty": 1,
+          "image": "assets/f52f813367f964ef7e34.jpg"
+        },
+        {
+          "name": "Firewake Sliver",
+          "qty": 1,
+          "image": "assets/5f03048963ea92fe08e4.jpg"
+        },
+        {
+          "name": "Harmonic Sliver",
+          "qty": 1,
+          "image": "assets/34e3c19611d09a0d18be.jpg"
+        },
+        {
+          "name": "Hibernation Sliver",
+          "qty": 1,
+          "image": "assets/9c0841c1dde8b728bf0b.jpg"
+        },
+        {
+          "name": "Lavabelly Sliver",
+          "qty": 1,
+          "image": "assets/b95f4e2f09d22e6d46e2.jpg"
+        },
+        {
+          "name": "Necrotic Sliver",
+          "qty": 1,
+          "image": "assets/5238891daad16cb9ab7c.jpg"
+        },
+        {
+          "name": "Herald's Horn",
+          "qty": 1,
+          "image": "assets/7fc9da6c8f88647cd0ec.jpg"
+        },
+        {
+          "name": "Pillar of Origins",
+          "qty": 1,
+          "image": "assets/66da8d2748e7c1c9dbf9.jpg"
+        },
+        {
+          "name": "Flood Plain",
+          "qty": 1,
+          "image": "assets/94f41ee22eff54d1a683.jpg"
+        },
+        {
+          "name": "Frontier Bivouac",
+          "qty": 1,
+          "image": "assets/0d29508a0a9377b8324c.jpg"
+        },
+        {
+          "name": "Grasslands",
+          "qty": 1,
+          "image": "assets/74b3fc86db5247fad840.jpg"
+        },
+        {
+          "name": "Jungle Shrine",
+          "qty": 1,
+          "image": "assets/58cd730cacb3b4505703.jpg"
+        },
+        {
+          "name": "Mountain Valley",
+          "qty": 1,
+          "image": "assets/a3235b3dfb26833152b6.jpg"
+        },
+        {
+          "name": "Mystic Monastery",
+          "qty": 1,
+          "image": "assets/7ccad8cf74b36e53c079.jpg"
+        },
+        {
+          "name": "Nomad Outpost",
+          "qty": 1,
+          "image": "assets/8040b803662bc3d1a819.jpg"
+        },
+        {
+          "name": "Opulent Palace",
+          "qty": 1,
+          "image": "assets/0aeddd241c4dd26d343a.jpg"
+        },
+        {
+          "name": "Rocky Tar Pit",
+          "qty": 1,
+          "image": "assets/63ae20eaa21bd1b9615e.jpg"
+        },
+        {
+          "name": "Sandsteppe Citadel",
+          "qty": 1,
+          "image": "assets/6b58cde2a7e36fa6e1cd.jpg"
+        },
+        {
+          "name": "Savage Lands",
+          "qty": 1,
+          "image": "assets/756b884658df5454b595.jpg"
+        },
+        {
+          "name": "Seaside Citadel",
+          "qty": 1,
+          "image": "assets/fa547cbcebd583e80418.jpg"
+        },
+        {
+          "name": "Secluded Courtyard",
+          "qty": 1,
+          "image": "assets/31963663910de5e48bf6.jpg"
+        },
+        {
+          "name": "Unclaimed Territory",
+          "qty": 1,
+          "image": "assets/1217f42d8a94ec0021c9.jpg"
+        },
+        {
+          "name": "Plains",
+          "qty": 2,
+          "image": "assets/04b9bf2713a50c727329.jpg"
+        },
+        {
+          "name": "Island",
+          "qty": 2,
+          "image": "assets/3d48b021def55c4c788e.jpg"
+        },
+        {
+          "name": "Swamp",
+          "qty": 2,
+          "image": "assets/c5504de876a856b1f96f.jpg"
+        },
+        {
+          "name": "Mountain",
+          "qty": 2,
+          "image": "assets/6ffa070b4f8ef756b832.jpg"
+        },
+        {
+          "name": "Forest",
+          "qty": 3,
+          "image": "assets/49d3ea9a3d570b415ad8.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "195166216355",
+          "label": "Commander deck",
+          "kind": "standard",
+          "price": 350.0,
+          "qty": 1,
+          "catalogName": "Sliver Swarm"
+        }
+      ]
+    },
+    {
       "id": "stardewvalleyaflickerinthedeep",
       "title": "Stardew Valley: A Flicker in the Deep",
       "category": "Stardew Valley",
@@ -3241,7 +3856,7 @@
           "label": "Non-foil",
           "kind": "nonfoil",
           "price": 55.0,
-          "qty": 4,
+          "qty": 3,
           "catalogName": "Stardew A Flicker In The Deep Non Foil",
           "sku": "195166344416"
         }
@@ -3281,6 +3896,59 @@
       ]
     },
     {
+      "id": "stardewvalleylifeinpelicantown",
+      "title": "Stardew Valley: Life in Pelican Town",
+      "category": "Stardew Valley",
+      "cards": [
+        "Crop Rotation",
+        "Fountainport",
+        "Homeward Path",
+        "Command Tower",
+        "Yavimaya, Cradle of Growth"
+      ],
+      "source": "https://secretlair.wizards.com/us/en/product/1253584/secret-lair-x-stardew-valley-life-in-pelican-town",
+      "aliases": {
+        "Fountainport": "Community Center",
+        "Homeward Path": "Pelican Town",
+        "Command Tower": "Tower of Rasmodius",
+        "Yavimaya, Cradle of Growth": "Valley Farmstead"
+      },
+      "notes": "",
+      "image": "assets/9c8333807da104bc20e9.png",
+      "cardImages": [
+        {
+          "name": "Crop Rotation",
+          "image": "assets/358c007c2910c2c32168.png"
+        },
+        {
+          "name": "Fountainport",
+          "image": "assets/678283936ad15995d47d.png"
+        },
+        {
+          "name": "Homeward Path",
+          "image": "assets/284a510c79cd08c19548.png"
+        },
+        {
+          "name": "Command Tower",
+          "image": "assets/98742f0653bf7abf8d96.png"
+        },
+        {
+          "name": "Yavimaya, Cradle of Growth",
+          "image": "assets/57abc00a525c46b390d2.png"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "195166344355",
+          "label": "Standard · confirm finish",
+          "kind": "standard",
+          "price": 55.0,
+          "qty": 3,
+          "catalogName": "Stardew Life In Pelican Town"
+        }
+      ]
+    },
+    {
       "id": "stardewvalleywelcometostardewvalley",
       "title": "Stardew Valley: Welcome to Stardew Valley",
       "category": "Stardew Valley",
@@ -3307,7 +3975,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 45.0,
-          "qty": 21,
+          "qty": 20,
           "catalogName": "Stardew Welcome To Stardew Valley",
           "sku": "195166329864"
         },
@@ -3520,6 +4188,54 @@
       ]
     },
     {
+      "id": "theenemyfetchlands",
+      "title": "The Enemy Fetch Lands — Secret Lair: Ultimate Edition",
+      "category": "Art & more",
+      "cards": [
+        "Marsh Flats",
+        "Scalding Tarn",
+        "Verdant Catacombs",
+        "Arid Mesa",
+        "Misty Rainforest"
+      ],
+      "source": "https://magic.wizards.com/en/news/announcements/making-fetch-happen-secret-lair-ultimate-edition-2020-03-13",
+      "aliases": {},
+      "notes": "The original Secret Lair: Ultimate Edition includes one non-foil copy of each of these five enemy fetch lands.",
+      "image": "assets/0f1938a346439ddaedf4.png",
+      "cardImages": [
+        {
+          "name": "Marsh Flats",
+          "image": "assets/e25968983941960e820a.png"
+        },
+        {
+          "name": "Scalding Tarn",
+          "image": "assets/1056d0ad1d33faf2eabe.png"
+        },
+        {
+          "name": "Verdant Catacombs",
+          "image": "assets/c684482ae53109900b35.png"
+        },
+        {
+          "name": "Arid Mesa",
+          "image": "assets/5a6580e0c20f93f64337.png"
+        },
+        {
+          "name": "Misty Rainforest",
+          "image": "assets/d7572ad309a39844d148.png"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "630509930128",
+          "label": "Non-foil",
+          "kind": "nonfoil",
+          "price": 250.0,
+          "qty": 1,
+          "catalogName": "The Enemy Fetch Lands"
+        }
+      ]
+    },
+    {
       "id": "theeyeshaveit",
       "title": "The Eyes Have It",
       "category": "Art & more",
@@ -3652,7 +4368,7 @@
           "label": "Foil",
           "kind": "foil",
           "price": 95.0,
-          "qty": 3,
+          "qty": 2,
           "catalogName": "Second Breakfast & Beyond Foil",
           "sku": "195166328164"
         }
@@ -3825,6 +4541,14 @@
           "qty": 1,
           "catalogName": "Smaug's Spoils",
           "sku": "195166328072"
+        },
+        {
+          "sku": "195166328003",
+          "label": "Foil",
+          "kind": "foil",
+          "price": 55.0,
+          "qty": 1,
+          "catalogName": "Smaug's Spoils Foil"
         }
       ],
       "cardImages": [
@@ -3985,7 +4709,7 @@
           "label": "Standard · confirm finish",
           "kind": "standard",
           "price": 50.0,
-          "qty": 12,
+          "qty": 11,
           "catalogName": "Tobys Journey",
           "sku": "195166340586"
         },
